@@ -1,7 +1,7 @@
-This is LuaHBTeX, Version 1.22.0 (TeX Live 2025)  (format=lualatex 2026.1.1)  14 JAN 2026 15:23
+This is LuaHBTeX, Version 1.22.0 (TeX Live 2025)  (format=lualatex 2026.1.1)  14 JAN 2026 15:31
  restricted system commands enabled.
-**03_ploidy.tex
-(./03_ploidy.tex
+**02_chromosomes.tex
+(./02_chromosomes.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-29>
 Lua module: luaotfload 2024-12-03 v3.29 Lua based OpenType font support
@@ -957,9 +957,9 @@ File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO)
 \BKM@id=\count369
 ))
 Package hyperref Info: Option `colorlinks' set `true' on input line 178.
-No file 03_ploidy.aux.
+No file 02_chromosomes.aux.
 
-\openout1 = 03_ploidy.aux
+\openout1 = 02_chromosomes.aux
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 184.
 LaTeX Font Info:    ... okay on input line 184.
 LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 184.
@@ -1280,33 +1280,63 @@ File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 Package tocbasic Info: character protrusion at toc deactivated on input line 191.
-No file 03_ploidy.toc.
+No file 02_chromosomes.toc.
 \tf@toc=\write4
 
-\openout4 = 03_ploidy.toc
+\openout4 = 02_chromosomes.toc
 (/Users/jwiggi/Library/TinyTeX/texmf-dist/tex/latex/microtype/mt-TU-empty.cfg
 File: mt-TU-empty.cfg 2021/06/22 v1.1 microtype config. file: fonts with nonstandard glyph set (RS)
 )
+<../images/human_male_karyotype.png, id=7, 513.92pt x 402.50375pt>
+File: ../images/human_male_karyotype.png Graphic file (type png)
+<use ../images/human_male_karyotype.png>
+Package luatex.def Info: ../images/human_male_karyotype.png  used on input line 232.
+(luatex.def)             Requested size: 221.19301pt x 173.23906pt.
+<../images/mitochondria.png, id=8, 513.92pt x 574.145pt>
+File: ../images/mitochondria.png Graphic file (type png)
+<use ../images/mitochondria.png>
+Package luatex.def Info: ../images/mitochondria.png  used on input line 233.
+(luatex.def)             Requested size: 221.19301pt x 247.11407pt.
 
-LaTeX Warning: File `../images/ploidy/diploid_cell_cartoon.png' not found on input line 244.
+Overfull \hbox (5.09872pt too wide) in paragraph at lines 231--240
+[]\TU/lmr/m/n/10.95 Some chro-mo-somes are cir-cu-lar (like a fruit loop) []
+ []
+
+[1
 
 
-! Package luatex.def Error: File `../images/ploidy/diploid_cell_cartoon.png' not found: using draft setting.
+{/Users/jwiggi/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+<../images/chromosome_types.png, id=21, 1121.28pt x 1121.28pt>
+File: ../images/chromosome_types.png Graphic file (type png)
+<use ../images/chromosome_types.png>
+Package luatex.def Info: ../images/chromosome_types.png  used on input line 252.
+(luatex.def)             Requested size: 469.75385pt x 469.75385pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--254
+[][]
+ []
+
+[2<../images/human_male_karyotype.png><../images/mitochondria.png>] [3<../images/chromosome_types.png>]
+
+LaTeX Warning: File `../images/chromosomes/homologous_chromosomes.png' not found on input line 289.
+
+
+! Package luatex.def Error: File `../images/chromosomes/homologous_chromosomes.png' not found: using draft setting.
 
 See the luatex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.244 ...{../images/ploidy/diploid_cell_cartoon.png}
+l.289 ...ges/chromosomes/homologous_chromosomes.png}
                                                   
 
 Here is how much of LuaTeX's memory you used:
- 41550 strings out of 476081
+ 41683 strings out of 476081
  100000,1648299 words of node,token memory allocated
- 11729 words of node memory still in use:
-   60 hlist, 3 vlist, 3 rule, 58 disc, 20 local_par, 2 dir, 2 math, 332 glue, 89 kern, 69 penalty, 4 margin_kern, 830 glyph, 224 attribute, 75 glue_spec, 224 attribute_list, 2 temp, 7 if_stack, 8 write, 4 pdf_dest, 34 pdf_colorstack nodes
-   avail lists: 1:2,2:8,3:2,4:3,5:33,6:2,7:3,8:1,9:3,10:11,12:2
- 63196 multiletter control sequences out of 65536+600000
- 64 fonts using 19303891 bytes
- 108i,4n,114p,11230b,1126s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 7253 words of node memory still in use:
+   57 hlist, 3 vlist, 3 rule, 37 disc, 10 local_par, 1 dir, 171 glue, 36 kern, 22 penalty, 4 margin_kern, 405 glyph, 253 attribute, 66 glue_spec, 253 attribute_list, 1 temp, 7 if_stack, 2 write, 139 pdf_literal, 1 pdf_dest, 16 pdf_colorstack nodes
+   avail lists: 1:2,2:300,3:469,4:132,5:146,6:42,7:2757,8:1,9:284,10:18,11:168,12:2
+ 63311 multiletter control sequences out of 65536+600000
+ 64 fonts using 19303967 bytes
+ 108i,7n,114p,11235b,1126s stack positions out of 10000i,1000n,20000p,200000b,200000s
 !  ==> Fatal error occurred, no output PDF file produced!

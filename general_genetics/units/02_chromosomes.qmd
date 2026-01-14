@@ -81,7 +81,7 @@ In many organisms, chromosomes come in **sets**.
 
 **Homologous chromosomes** (or **homologs**) are the same chromosome type meaning each chromosome in the set has the same gene content in the same order.
 
-![](../images/chromosomes/homologous_chromosomes.png){width=95%}
+![](../images/homologous_chromosomes.png){width=95%}
 *Figure 4. A homologous pair of chromosomes.*
 
 ---
@@ -102,7 +102,7 @@ Allele - different version of a gene. For example, if a gene codes for flower co
 
 In the image below the number subscripts next to the gene name (e.g. 'A') represent the allele. These homologs carry different alleles for Gene A and C. 
 They carry the same alleles for Gene B. 
-![](../images/chromosomes/homologs_diff_alleles.png){width=100%}
+![](../images/homologs_diff_alleles.png){width=100%}
 *Figure 5. Homologous chromosomes carry the same genes but may have different alleles.*
 
 :::callout-important
