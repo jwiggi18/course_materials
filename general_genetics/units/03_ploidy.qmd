@@ -21,18 +21,11 @@ By the end, you should be able to:
 :::callout-important
 ### Ploidy (course definition)
 **Ploidy = the number of chromosomes in a complete set of homologs.**
-:::
 
-A *complete set* means: “one of each chromosome type.”
-
-![](../images/ploidy/ploidy_definition_set.png){width=100%}
-*Figure 1. One complete set of homologs contains one of each chromosome type (e.g., chromosome 1, chromosome 2, etc.).*
-
----
 
 ## Step 1: “Diploid cell” vs “diploid number” (they are not the same)
 
-**Diploid cell** = has **two** versions of each chromosome (two homologs). :contentReference[oaicite:2]{index=2}  
+**Diploid cell** = has **two** versions of each chromosome (two homologs). 
 **Diploid number** = the **total** number of chromosomes in that diploid cell.
 
 :::callout-note
