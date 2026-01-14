@@ -1,0 +1,16 @@
+project:
+  type: website
+
+website:
+  title: "General Genetics"
+  sidebar:
+    contents:
+      - index.qmd
+      - units/01_genomes.qmd
+
+format:
+  html:
+    toc: true
+  pdf:
+    toc: true
+
