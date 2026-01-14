@@ -1,5 +1,5 @@
 ---
-title: "Unit 2: Ploidy — How Many Copies?"
+title: "Unit 2: Ploidy — How Many Copies?" **DRAFT**
 format:
   pdf:
     geometry: margin=1in
@@ -43,7 +43,7 @@ By the end, you should be able to:
 
 **n** = the number of **distinct chromosome types** (the size of one complete set). :contentReference[oaicite:3]{index=3}
 
-![](../images/ploidy/n_equals_unique_types.png){width=95%}
+
 *Figure 3. n is the number of unique chromosome types in one set.*
 
 ### Example (small on purpose)
@@ -52,7 +52,6 @@ If a pretend organism has two chromosome types (chromosome 1 and 2), then:
 - diploid cell is **2n**
 - diploid number is **2 × 2 = 4**
 
-![](../images/ploidy/2n_equals_4_example.png){width=90%}
 *Figure 4. If n=2, then 2n=4 total chromosomes in a diploid cell.*
 
 ---
@@ -61,7 +60,7 @@ If a pretend organism has two chromosome types (chromosome 1 and 2), then:
 
 A **haploid cell** has **one** version of each chromosome type (one complete set). :contentReference[oaicite:4]{index=4}
 
-![](../images/ploidy/haploid_cell_cartoon.png){width=75%}
+
 *Figure 5. A haploid cell contains one complete set.*
 
 :::callout-important
@@ -79,7 +78,7 @@ In a diploid cell, the two versions of the same chromosome are **homologous chro
 - same genes in the same order
 - alleles can differ
 
-![](../images/ploidy/homologs_same_genes.png){width=100%}
+
 *Figure 6. Homologous chromosomes carry the same genes in the same locations (loci).*
 
 ---
@@ -93,10 +92,10 @@ After replication:
 - those identical copies are **sister chromatids**
 - they are joined at the **centromere** :contentReference[oaicite:7]{index=7}
 
-![](../images/ploidy/s_phase_replication.png){width=100%}
+
 *Figure 7. DNA replication in S-phase produces sister chromatids.*
 
-![](../images/ploidy/sister_chromatids_vs_homologs.png){width=100%}
+{width=100%}
 *Figure 8. Homologous chromosomes vs sister chromatids (do not mix these up).*
 
 :::callout-note
@@ -114,7 +113,7 @@ After replication:
 **Tetraploid** = 4 complete sets  
 **Polyploid** = more than 2 sets :contentReference[oaicite:8]{index=8}
 
-![](../images/ploidy/polyploid_series.png){width=100%}
+
 *Figure 9. One chromosome type shown across haploid → tetraploid.*
 
 :::callout-note
@@ -131,7 +130,7 @@ For each panel, answer:
 2) How many complete sets are present? (ploidy)  
 3) What is the total chromosome number?
 
-![](../images/ploidy/practice_panels.png){width=100%}
+
 *Figure 10. Practice panels A–D.*
 
 ---
