@@ -34,7 +34,7 @@ By the end, you should be able to:
 - **2n** also helps you calculate the *diploid number* once you know **n**
 :::
 
-![](../images/ploidy/diploid_cell_cartoon.png){width=90%}
+> insert diploid img
 *Figure 2. A diploid cell: two homologs for each chromosome type.*
 
 ---

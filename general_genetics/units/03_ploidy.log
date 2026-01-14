@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.22.0 (TeX Live 2025)  (format=lualatex 2026.1.1)  14 JAN 2026 15:14
+This is LuaHBTeX, Version 1.22.0 (TeX Live 2025)  (format=lualatex 2026.1.1)  14 JAN 2026 15:23
  restricted system commands enabled.
 **03_ploidy.tex
 (./03_ploidy.tex
@@ -1288,25 +1288,25 @@ No file 03_ploidy.toc.
 File: mt-TU-empty.cfg 2021/06/22 v1.1 microtype config. file: fonts with nonstandard glyph set (RS)
 )
 
-LaTeX Warning: File `../images/ploidy/ploidy_definition_set.png' not found on input line 226.
+LaTeX Warning: File `../images/ploidy/diploid_cell_cartoon.png' not found on input line 244.
 
 
-! Package luatex.def Error: File `../images/ploidy/ploidy_definition_set.png' not found: using draft setting.
+! Package luatex.def Error: File `../images/ploidy/diploid_cell_cartoon.png' not found: using draft setting.
 
 See the luatex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.226 ...../images/ploidy/ploidy_definition_set.png}
+l.244 ...{../images/ploidy/diploid_cell_cartoon.png}
                                                   
 
 Here is how much of LuaTeX's memory you used:
- 41631 strings out of 476081
+ 41550 strings out of 476081
  100000,1648299 words of node,token memory allocated
- 9938 words of node memory still in use:
-   80 hlist, 4 vlist, 3 rule, 41 disc, 17 local_par, 1 dir, 2 math, 280 glue, 45 kern, 51 penalty, 4 margin_kern, 548 glyph, 348 attribute, 65 glue_spec, 348 attribute_list, 1 temp, 7 if_stack, 6 write, 139 pdf_literal, 3 pdf_dest, 33 pdf_colorstack nodes
-   avail lists: 1:2,2:4,3:1,4:1,5:7,8:1,10:7,12:2
- 63277 multiletter control sequences out of 65536+600000
- 64 fonts using 19303967 bytes
- 108i,7n,114p,11230b,1126s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 11729 words of node memory still in use:
+   60 hlist, 3 vlist, 3 rule, 58 disc, 20 local_par, 2 dir, 2 math, 332 glue, 89 kern, 69 penalty, 4 margin_kern, 830 glyph, 224 attribute, 75 glue_spec, 224 attribute_list, 2 temp, 7 if_stack, 8 write, 4 pdf_dest, 34 pdf_colorstack nodes
+   avail lists: 1:2,2:8,3:2,4:3,5:33,6:2,7:3,8:1,9:3,10:11,12:2
+ 63196 multiletter control sequences out of 65536+600000
+ 64 fonts using 19303891 bytes
+ 108i,4n,114p,11230b,1126s stack positions out of 10000i,1000n,20000p,200000b,200000s
 !  ==> Fatal error occurred, no output PDF file produced!
