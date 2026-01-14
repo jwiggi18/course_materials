@@ -1,5 +1,5 @@
 ---
-title: "Unit 2: Ploidy — How Many Copies?" **DRAFT**
+title: "UPloidy — How Many Copies? **DRAFT**" 
 format:
   pdf:
     geometry: margin=1in
