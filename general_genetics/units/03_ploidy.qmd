@@ -1,0 +1,156 @@
+---
+title: "Unit 2: Ploidy — How Many Copies?"
+format:
+  pdf:
+    geometry: margin=1in
+---
+
+## What you’re learning here
+
+By the end, you should be able to:
+
+- Define **ploidy** using our course definition
+- Tell the difference between a **diploid/haploid cell** and **diploid/haploid number**
+- Identify **homologous chromosomes** vs **sister chromatids**
+- Determine ploidy level (haploid, diploid, triploid, tetraploid, etc.) from a diagram
+
+---
+
+## The core definition (use this all semester)
+
+:::callout-important
+### Ploidy (course definition)
+**Ploidy = the number of chromosomes in a complete set of homologs.**
+:::
+
+A *complete set* means: “one of each chromosome type.”
+
+![](../images/ploidy/ploidy_definition_set.png){width=100%}
+*Figure 1. One complete set of homologs contains one of each chromosome type (e.g., chromosome 1, chromosome 2, etc.).*
+
+---
+
+## Step 1: “Diploid cell” vs “diploid number” (they are not the same)
+
+**Diploid cell** = has **two** versions of each chromosome (two homologs). :contentReference[oaicite:2]{index=2}  
+**Diploid number** = the **total** number of chromosomes in that diploid cell.
+
+:::callout-note
+### Two symbols you must keep separate
+- **2n** describes a *diploid cell* (two homologs per chromosome type)
+- **2n** also helps you calculate the *diploid number* once you know **n**
+:::
+
+![](../images/ploidy/diploid_cell_cartoon.png){width=90%}
+*Figure 2. A diploid cell: two homologs for each chromosome type.*
+
+---
+
+## Step 2: What does **n** mean?
+
+**n** = the number of **distinct chromosome types** (the size of one complete set). :contentReference[oaicite:3]{index=3}
+
+![](../images/ploidy/n_equals_unique_types.png){width=95%}
+*Figure 3. n is the number of unique chromosome types in one set.*
+
+### Example (small on purpose)
+If a pretend organism has two chromosome types (chromosome 1 and 2), then:
+- **n = 2**
+- diploid cell is **2n**
+- diploid number is **2 × 2 = 4**
+
+![](../images/ploidy/2n_equals_4_example.png){width=90%}
+*Figure 4. If n=2, then 2n=4 total chromosomes in a diploid cell.*
+
+---
+
+## Haploid: one complete set
+
+A **haploid cell** has **one** version of each chromosome type (one complete set). :contentReference[oaicite:4]{index=4}
+
+![](../images/ploidy/haploid_cell_cartoon.png){width=75%}
+*Figure 5. A haploid cell contains one complete set.*
+
+:::callout-important
+### The cleanest shortcut
+The **haploid number** is just **n**.
+:::
+
+---
+
+## Homologous chromosomes: same genes, possibly different alleles
+
+In a diploid cell, the two versions of the same chromosome are **homologous chromosomes**. :contentReference[oaicite:5]{index=5}
+
+**What to notice**
+- same genes in the same order
+- alleles can differ
+
+![](../images/ploidy/homologs_same_genes.png){width=100%}
+*Figure 6. Homologous chromosomes carry the same genes in the same locations (loci).*
+
+---
+
+## Why chromosomes sometimes look like “X” shapes
+
+Before mitosis, the cell replicates DNA in **S-phase**. :contentReference[oaicite:6]{index=6}
+
+After replication:
+- each chromosome has **two identical copies stuck together**
+- those identical copies are **sister chromatids**
+- they are joined at the **centromere** :contentReference[oaicite:7]{index=7}
+
+![](../images/ploidy/s_phase_replication.png){width=100%}
+*Figure 7. DNA replication in S-phase produces sister chromatids.*
+
+![](../images/ploidy/sister_chromatids_vs_homologs.png){width=100%}
+*Figure 8. Homologous chromosomes vs sister chromatids (do not mix these up).*
+
+:::callout-note
+### Quick check
+- **Sister chromatids** = identical copies (same alleles)
+- **Homologous chromosomes** = same genes, alleles may differ
+:::
+
+---
+
+## Triploid, tetraploid, polyploid
+
+**Diploid** = 2 complete sets  
+**Triploid** = 3 complete sets  
+**Tetraploid** = 4 complete sets  
+**Polyploid** = more than 2 sets :contentReference[oaicite:8]{index=8}
+
+![](../images/ploidy/polyploid_series.png){width=100%}
+*Figure 9. One chromosome type shown across haploid → tetraploid.*
+
+:::callout-note
+### Why you’ll see this later
+Many plants are polyploid, and polyploidy is connected to traits like larger fruit size. :contentReference[oaicite:9]{index=9}
+:::
+
+---
+
+## Practice: determine ploidy from a picture
+
+For each panel, answer:
+1) What is **n**? (how many chromosome types?)  
+2) How many complete sets are present? (ploidy)  
+3) What is the total chromosome number?
+
+![](../images/ploidy/practice_panels.png){width=100%}
+*Figure 10. Practice panels A–D.*
+
+---
+
+## Summary (memorize this structure, not numbers)
+
+- **n** = number of chromosome types in one complete set  
+- **Ploidy** = number of complete sets of homologs  
+- **2n** is diploid (two sets), **n** is haploid (one set) :contentReference[oaicite:10]{index=10}
+- After S-phase, chromosomes are duplicated, but **ploidy does not change** (you still have the same number of sets) :contentReference[oaicite:11]{index=11}
+
+:::callout-important
+### One sentence to keep you honest
+**Replication makes sister chromatids; it does not change ploidy.**
+:::
