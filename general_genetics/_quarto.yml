@@ -7,10 +7,16 @@ website:
     contents:
       - index.qmd
       - units/01_genomes.qmd
+      - units/02_chromosomes.qmd
+      - units/03_ploidy.qmd
 
 format:
   html:
     toc: true
   pdf:
-    toc: true
+    include-in-header:
+      text: |
+        \usepackage{graphicx}
+        \setkeys{Gin}{draft}
+
 

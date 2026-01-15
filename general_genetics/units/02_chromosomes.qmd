@@ -5,7 +5,7 @@ format:
     geometry: margin=1in
 ---
 
-## Why chromosomes matter
+## Key Points
 
 - what a **chromosome** is
 - how chromosomes differ from each other
@@ -24,31 +24,31 @@ A **chromosome** is:
 - defined by the genes it carries
 
 :::callout-important
-### Key idea
+### Common misconception
 A chromosome is not a single gene — it is a **collection of many genes and intergenic regions arranged along one DNA molecule**.
 :::
+
+![](../images/human_ch19.png){width=100%}
+*Figure 2. Human Chromosome 19 is 58,517,616 base pairs long. The image depicts genes as pink lines and intergenic regions as white space.*
 
 ## Chromosomes can be different shapes
 - Some chromosomes are linear (like a piece of spagetti)
 - Some chromosomes are circular (like a fruit loop)
 ![](../images/human_male_karyotype.png){width=50%}
 ![](../images/mitochondria.png){width=50%}
-*Figure 1. A human male karyotype showing linear chromosomes.* 
-Image source: National Human Genome Research Institute, Public domain, via Wikimedia Commons. *Figure 2. A cell, mitochondria, and representation of mitochondrial circular DNA* 
-Image Source: Science Primer (National Center for Biotechnology Information). Vectorized by Mortadelo2005., Public domain, via Wikimedia Commons
+*Figure 1. Left: Chromosomes 1 - 3 of a human karyotype illustrating linear chromosomes. Right: A depiction of mitochondrial DNA illustrating circular chromosomes.* 
+Image source: National Human Genome Research Institute, Public domain, via Wikimedia Commons. Science Primer (National Center for Biotechnology Information). Vectorized by Mortadelo2005., Public domain, via Wikimedia Commons. Edited by author. 
 
 ---
-
-## Different chromosomes carry different genes
+## Different Chromosome types carry different genes
 
 Each chromosome type carries a **different set of genes**.
 
 **What to notice**
-- Chromosome 1 has genes that chromosome 2 does not
-- Chromosome 2 has genes that chromosome 3 does not
+None of the three chromosome types share genes. 
 
 ![](../images/chromosome_types.png){width=100%}
-*Figure 2. Different chromosomes contain different genes.*
+*Figure 2. Three chromosome types, each with a unique set of genes.*
 
 :::callout-note
 ### Important distinction
@@ -65,7 +65,9 @@ Examples:
 - Humans: 23 chromosome types
 - Dogs: 39 chromosome types
 - Fruit flies: 4 chromosome types
-- Some plants: hundreds
+
+![](../images/human_dog_fly_ideogram.png){width=100%}
+*Figure 4. [Idoegrams](https://www.nature.com/scitable/topicpage/chromosome-mapping-idiograms-302/){target="_blank"} of Human, Domestic dog, and Fruit fly chromosomes types.* Source: National Center for Biotechnology Information [Genome Data Viewer](https://www.ncbi.nlm.nih.gov/gdv){target="_blank"}.
 
 
 :::callout-note
@@ -100,7 +102,7 @@ This point is *critical*.
 Allele - different version of a gene. For example, if a gene codes for flower color, all alleles of that gene code for flower color but one allele might code for purple flower color while another codes for white flower color. 
 :::
 
-In the image below the number subscripts next to the gene name (e.g. 'A') represent the allele. These homologs carry different alleles for Gene A and C. 
+In the image below the number subscripts (e.g. '1') next to the gene name ('A') represent the allele. These homologs carry different alleles for Gene A and C. 
 They carry the same alleles for Gene B. 
 ![](../images/homologs_diff_alleles.png){width=100%}
 *Figure 5. Homologous chromosomes carry the same genes but may have different alleles.*
@@ -112,9 +114,9 @@ They carry the same alleles for Gene B.
 
 ---
 
-## Homologs vs different chromosomes (do not mix these up)
+## Homologs vs different chromosome types (do not mix these up)
 
-| Comparison | Homologous chromosomes | Different chromosomes |
+| Comparison | Homologous chromosomes | Chromosome types |
 |---------|----------------------|----------------------|
 | Gene content | Same genes | Different genes |
 | Gene order | Same order | Different |
@@ -123,20 +125,22 @@ They carry the same alleles for Gene B.
 
 ---
 
-## How many copies of each chromosome are there?
+## How many chromosomes are there in a set?
 
 This depends on the organism and the cell type.
 
-Examples:
-- **Diploid cells**: two homologs of each chromosome type
-- **Haploid cells**: one copy of each chromosome type
-- **Polyploid cells**: more than two copies
+Humans are diploid organisms. This means our cells have two (2) homologs in a set.
 
--> add img of chromosome copy number
+:::callout-note
+### Diploid
+Di = two,
+ploid = number of chromosomes
+:::
+
 
 :::callout-note
 ### Preview
-The number of complete sets of homologs is called **ploidy** — that’s next.
+The number of chromosomes in a complete set is called **ploidy** — that’s next.
 :::
 
 ---
@@ -144,9 +148,9 @@ The number of complete sets of homologs is called **ploidy** — that’s next.
 ## Big picture summary
 
 - A **chromosome** is a single DNA molecule containing many genes
-- Different chromosomes carry **different genes**
+- Different **chromosome types** carry different genes
 - **Homologous chromosomes** are the same chromosome type carrying the same genes but may have different alleles
 - Species can differ in:
   - number of chromosome types
-  - number of copies of those chromosomes
+  - number of homologs in a complete set (ploidy)
 

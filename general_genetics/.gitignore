@@ -1,6 +1,7 @@
 # Quarto output
 _site/
 .quarto/
+quarto_how_to.txt
 
 /.quarto/
 **/*.quarto_ipynb

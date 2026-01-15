@@ -1,5 +1,5 @@
 ---
-title: "UPloidy — How Many Copies? **DRAFT**" 
+title: "Ploidy — How Many Copies?" 
 format:
   pdf:
     geometry: margin=1in
@@ -9,10 +9,12 @@ format:
 
 By the end, you should be able to:
 
-- Define **ploidy** using our course definition
+- Define **ploidy** *using our course definition*
+- Determine ploidy level (haploid, diploid, triploid, tetraploid, etc.) from a diagram or description
 - Tell the difference between a **diploid/haploid cell** and **diploid/haploid number**
+- Calculate diploid number.
 - Identify **homologous chromosomes** vs **sister chromatids**
-- Determine ploidy level (haploid, diploid, triploid, tetraploid, etc.) from a diagram
+
 
 ---
 
@@ -21,47 +23,112 @@ By the end, you should be able to:
 :::callout-important
 ### Ploidy (course definition)
 **Ploidy = the number of chromosomes in a complete set of homologs.**
+:::
 
+## Different species and different cells can have different ploidy
+### Species ploidy differences
+When we refer to the ploidy of a species we are referring to the number of chromosomes that exist in a complete set in each somatic cell of an individual of that species.
 
-## Step 1: “Diploid cell” vs “diploid number” (they are not the same)
+- Humans and most mammals are diploid: two (2) homologs in each complete set.
+
+:::callout-note
+### Diploid
+
+Di = two
+
+ploid = number of chromosomes
+:::
+
+![](../images/diploid_homologs.png){width=100%}
+Figure 1: *One set of diploid homologous chromosomes.*
+
+Organisms that have more than two chromosomes in a complete set of homologous chromosomes are called **polyploid**.
+
+:::callout-note
+### Polyploid
+
+Poly = many
+
+ploid = number of chromosomes
+:::
+
+Polyploidy is common in plants, some species of strawberry have eight (8) chromosomes in each set of homologs (yes eight!). Polyploidy is less common in animals, but certainly not absent. [Various species of amphibians](https://pmc.ncbi.nlm.nih.gov/articles/PMC10044425/#sec1-animals-13-01033){target="_blank"} have ploidys ranging from three (3) to twelve (12), and polyploid species have been identified in all major groups of tetrapods. 
+
+:::callout-note
+### Polyploidy names
+The ploidy of an organism is determined by the number of homologs in each complete set.
+
+Example:
+
+Tetraploid (four homologs in each complete set)
+
+Tetra = four
+
+ploid = number of chromosomes
+
+Example:
+
+Octoploid (eight homologs in each complete set)
+
+Tetra = eight
+
+ploid = number of chromosomes
+:::
+
+![](../images/tetra_octoploid.png){width=100%}
+Figure 2: *Two examples of polyploidy. One complete set of homologous chromosomes in a tetraploid organism and an octoploid organism.* 
+
+:::callout-note
+### Polypolidy in agriculture
+Many plants are polyploid, and polyploidy is connected to traits like larger fruit size.
+:::
+
+### Cellular ploidy differences
+Sexually reproducing species have two broad categories of cells: somatic and germ cells (gametes). Somatic cells make up the body's tissues and organs. Germ cells are specifically for sexual reproduction. Somatic cells contain whatever the number of homologs make a complete set. For example, in humans somatic cells are diploid (2). Germ cells are created entirely for reproduction so their chromosomoal complement gets halved (they have half as many). In humans, germ cells are haploid (1). Think haploid = half. We will return to this in detail when we cover meiosis. 
+
+![](../images/somatic_germ_cells.png){width=100%}
+Figure 3: *Human germ cells and somatic cells.* 
+Source: National Human Genome Reserach Institute [talking glossary of genomic and genetic terms](https://www.genome.gov/genetics-glossary/Somatic-Cells){target="_blank"}.
+
+## “Diploid cell” vs “diploid number” (they are not the same)
 
 **Diploid cell** = has **two** versions of each chromosome (two homologs). 
 **Diploid number** = the **total** number of chromosomes in that diploid cell.
 
 :::callout-note
-### Two symbols you must keep separate
+### What does 2n mean
 - **2n** describes a *diploid cell* (two homologs per chromosome type)
 - **2n** also helps you calculate the *diploid number* once you know **n**
+- **n** is a variable, it can be replaced with the number of chromosome types to solve for the diploid number
 :::
 
-> insert diploid img
-*Figure 2. A diploid cell: two homologs for each chromosome type.*
+![](../images/human_diploid_ideogram.png){width=100%}
+*Figure 4. A human diploid ideogram: two homologs for each chromosome type.*
+Source: [UPO649 1112 mreycor1, CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons. Edited by author.
 
 ---
 
-## Step 2: What does **n** mean?
+## What does **n** mean?
 
-**n** = the number of **distinct chromosome types** (the size of one complete set). :contentReference[oaicite:3]{index=3}
+**n** = the number of **distinct chromosome types**. Remember that each chromosome type has its own unique set of genes. Humans have 23 chromosome types. Each of our 23 chromosomes has its own unique set of genes. 
 
+![](../images/human_haploid_ideogram.png){width=100%}
+*Figure 5. Humans have 23 chromosome types. In humans n = 23.*
+Source: [UPO649 1112 mreycor1, CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons. Edited by author.
 
-*Figure 3. n is the number of unique chromosome types in one set.*
+### Example
+Pretend a diploid organism has two chromosome types (chromosome 1 and 2). With this information we know:
 
-### Example (small on purpose)
-If a pretend organism has two chromosome types (chromosome 1 and 2), then:
 - **n = 2**
 - diploid cell is **2n**
 - diploid number is **2 × 2 = 4**
 
-*Figure 4. If n=2, then 2n=4 total chromosomes in a diploid cell.*
+![](../images/diploid_number_example.png){width=100%}
+*Figure 6. If n=2, then 2n=4 total chromosomes in a diploid cell.*
 
 ---
 
-## Haploid: one complete set
-
-A **haploid cell** has **one** version of each chromosome type (one complete set). :contentReference[oaicite:4]{index=4}
-
-
-*Figure 5. A haploid cell contains one complete set.*
+## Haploid number
 
 :::callout-important
 ### The cleanest shortcut
@@ -70,77 +137,33 @@ The **haploid number** is just **n**.
 
 ---
 
-## Homologous chromosomes: same genes, possibly different alleles
-
-In a diploid cell, the two versions of the same chromosome are **homologous chromosomes**. :contentReference[oaicite:5]{index=5}
-
-**What to notice**
-- same genes in the same order
-- alleles can differ
-
-
-*Figure 6. Homologous chromosomes carry the same genes in the same locations (loci).*
-
----
 
 ## Why chromosomes sometimes look like “X” shapes
 
-Before mitosis, the cell replicates DNA in **S-phase**. :contentReference[oaicite:6]{index=6}
+Before mitosis or meiosis, the cell replicates DNA in **S-phase**.
 
 After replication:
 - each chromosome has **two identical copies stuck together**
 - those identical copies are **sister chromatids**
-- they are joined at the **centromere** :contentReference[oaicite:7]{index=7}
+- they are joined at the **centromere**
 
 
-*Figure 7. DNA replication in S-phase produces sister chromatids.*
-
-{width=100%}
-*Figure 8. Homologous chromosomes vs sister chromatids (do not mix these up).*
+![](../images/homologs_sister_chromatids.png){width=100%}
+*Figure 7. A diploid organism with two chromosome types (1 & 2). On the left: Homologous chromosomes. On the right homologous chromosomes and sister chromatids. Sister chromatids are created during S-phase (synthesis phase of the cell cycle during which DNA replication occurs). Sister chromatids do not exist before S-phase.*
 
 :::callout-note
 ### Quick check
-- **Sister chromatids** = identical copies (same alleles)
+- **Sister chromatids** = identical copies (same alleles), produced by DNA replicaiton
 - **Homologous chromosomes** = same genes, alleles may differ
 :::
 
----
 
-## Triploid, tetraploid, polyploid
-
-**Diploid** = 2 complete sets  
-**Triploid** = 3 complete sets  
-**Tetraploid** = 4 complete sets  
-**Polyploid** = more than 2 sets :contentReference[oaicite:8]{index=8}
-
-
-*Figure 9. One chromosome type shown across haploid → tetraploid.*
-
-:::callout-note
-### Why you’ll see this later
-Many plants are polyploid, and polyploidy is connected to traits like larger fruit size. :contentReference[oaicite:9]{index=9}
-:::
-
----
-
-## Practice: determine ploidy from a picture
-
-For each panel, answer:
-1) What is **n**? (how many chromosome types?)  
-2) How many complete sets are present? (ploidy)  
-3) What is the total chromosome number?
-
-
-*Figure 10. Practice panels A–D.*
-
----
-
-## Summary (memorize this structure, not numbers)
+## Summary (know this structure, not numbers)
 
 - **n** = number of chromosome types in one complete set  
-- **Ploidy** = number of complete sets of homologs  
-- **2n** is diploid (two sets), **n** is haploid (one set) :contentReference[oaicite:10]{index=10}
-- After S-phase, chromosomes are duplicated, but **ploidy does not change** (you still have the same number of sets) :contentReference[oaicite:11]{index=11}
+- **Ploidy** = number in a complete set of homologs  
+- **2n** is diploid (two in a set), **n** is haploid (half of a diploid set) 
+- After S-phase, chromosomes are duplicated, but **ploidy does not change** (you still have the same number of sets)
 
 :::callout-important
 ### One sentence to keep you honest
