@@ -81,7 +81,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../units/02_chromosomes.pdf">Chromosomes</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../units/02_chromosomes.html">Chromosomes</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -115,19 +115,19 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../units/01_genomes.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Genomes and Where DNA Lives</span></a>
+ <span class="menu-text">Genomes</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../units/02_chromosomes.pdf" class="sidebar-item-text sidebar-link active">
+  <a href="../units/02_chromosomes.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Chromosomes</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../units/03_ploidy.pdf" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Ploidy — How Many Copies?</span></a>
+  <a href="../units/03_ploidy.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Ploidy</span></a>
   </div>
 </li>
     </ul>
@@ -213,7 +213,7 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="chromosomes-can-be-different-shapes">Chromosomes can be different shapes</h2>
 <ul>
 <li>Some chromosomes are linear (like a piece of spagetti)</li>
-<li>Some chromosomes are circular (like a fruit loop) <img src="../images/human_male_karyotype.png" class="img-fluid" style="width:50.0%"> <img src="../images/mitochondria.png" class="img-fluid" style="width:50.0%"> <em>Figure 1. Left: Chromosomes 1 - 3 of a human karyotype illustrating linear chromosomes. Right: A depiction of mitochondrial DNA illustrating circular chromosomes.</em> Image source: National Human Genome Research Institute, Public domain, via Wikimedia Commons. Science Primer (National Center for Biotechnology Information). Vectorized by Mortadelo2005., Public domain, via Wikimedia Commons. Edited by author.</li>
+<li>Some chromosomes are circular (like a fruit loop) <img src="../images/chromosome_shapes.png" class="img-fluid" style="width:100.0%"> <em>Figure 1. Left: Chromosomes 1 - 3 of a human karyotype illustrating linear chromosomes. Right: A depiction of mitochondrial DNA illustrating circular chromosomes.</em> Image source: National Human Genome Research Institute, Public domain, via Wikimedia Commons. Science Primer (National Center for Biotechnology Information). Vectorized by Mortadelo2005., Public domain, via Wikimedia Commons. Edited by author.</li>
 </ul>
 <hr>
 </section>
@@ -463,7 +463,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/jwiggi18\.github\.io\/course_materials\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

@@ -2,71 +2,161 @@
   {
     "objectID": "units/01_genomes.html",
     "href": "units/01_genomes.html",
-    "title": "Genomes and Where DNA Lives",
+    "title": "Genomes",
     "section": "",
     "text": "NoteOfficial definition\n\n\n\nThe National Human Genome Research Institute defines a genome as the complete set of DNA in an organism.\n\n\nA genome is “all the DNA” — but all the DNA in what system?\nEukaryotic cells can contain more than one genome (nuclear + mitochondrial, and chloroplast in plants).\n\n\n\n\n\n\nImportantAvoid a common confusion\n\n\n\n\n“Genome” = all DNA in the system being discussed\n\n“Nuclear genome” = all DNA in the nucleus\n\n“Mitochondrial genome” = all DNA in mitochondria\n“Chloroplast genome” = all DNA in chloroplast",
     "crumbs": [
-      "Genomes and Where DNA Lives"
+      "Genomes"
     ]
   },
   {
     "objectID": "units/01_genomes.html#what-is-a-genome",
     "href": "units/01_genomes.html#what-is-a-genome",
-    "title": "Genomes and Where DNA Lives",
+    "title": "Genomes",
     "section": "",
     "text": "NoteOfficial definition\n\n\n\nThe National Human Genome Research Institute defines a genome as the complete set of DNA in an organism.\n\n\nA genome is “all the DNA” — but all the DNA in what system?\nEukaryotic cells can contain more than one genome (nuclear + mitochondrial, and chloroplast in plants).\n\n\n\n\n\n\nImportantAvoid a common confusion\n\n\n\n\n“Genome” = all DNA in the system being discussed\n\n“Nuclear genome” = all DNA in the nucleus\n\n“Mitochondrial genome” = all DNA in mitochondria\n“Chloroplast genome” = all DNA in chloroplast",
     "crumbs": [
-      "Genomes and Where DNA Lives"
+      "Genomes"
     ]
   },
   {
     "objectID": "units/01_genomes.html#eukaryote-dna-is-in-compartments",
     "href": "units/01_genomes.html#eukaryote-dna-is-in-compartments",
-    "title": "Genomes and Where DNA Lives",
+    "title": "Genomes",
     "section": "Eukaryote: DNA is in compartments",
     "text": "Eukaryote: DNA is in compartments\nWhat to notice\nIn the Eukaryotic cell on the left there are membrane-bound organelles including:\n\nA nucleus (holds most DNA)\nMitochondria (have their own DNA)\n\nThe prokaryotic cell on the right lacks organelles (more on that later).\n Figure. A eukaryotic cell has a nucleus and organelles a prokaryotic cell does not (more on that below). Image Source: Science Primer (National Center for Biotechnology Information). Vectorized by Mortadelo2005., Public domain, via Wikimedia Commons",
     "crumbs": [
-      "Genomes and Where DNA Lives"
+      "Genomes"
     ]
   },
   {
     "objectID": "units/01_genomes.html#nuclear-genome-dna-inside-the-nucleus",
     "href": "units/01_genomes.html#nuclear-genome-dna-inside-the-nucleus",
-    "title": "Genomes and Where DNA Lives",
+    "title": "Genomes",
     "section": "Nuclear genome: DNA inside the nucleus",
     "text": "Nuclear genome: DNA inside the nucleus\nWhat to notice\n\nDNA is stored inside a membrane-bound nucleus\nThis DNA is packaged and organized (later: chromosomes)\n\n Figure. The nucleus houses most DNA in eukaryotic cells.",
     "crumbs": [
-      "Genomes and Where DNA Lives"
+      "Genomes"
     ]
   },
   {
     "objectID": "units/01_genomes.html#mitochondrial-genome-dna-inside-mitochondria",
     "href": "units/01_genomes.html#mitochondrial-genome-dna-inside-mitochondria",
-    "title": "Genomes and Where DNA Lives",
+    "title": "Genomes",
     "section": "Mitochondrial genome: DNA inside mitochondria",
     "text": "Mitochondrial genome: DNA inside mitochondria\nWhat to notice\n\nMitochondria contain many small circular DNA molecules\nIt’s separate from the nuclear genome\n\n Figure. Magnification of the mitochondria from an animal cell and a depiction of mitocondrial circular DNA. Image Source: National Human Genome Research Institute, Public domain, via Wikimedia Commons",
     "crumbs": [
-      "Genomes and Where DNA Lives"
+      "Genomes"
     ]
   },
   {
     "objectID": "units/01_genomes.html#chloroplast-genome-dna-inside-chloroplasts-plantsalgae",
     "href": "units/01_genomes.html#chloroplast-genome-dna-inside-chloroplasts-plantsalgae",
-    "title": "Genomes and Where DNA Lives",
+    "title": "Genomes",
     "section": "Chloroplast genome: DNA inside chloroplasts (plants/algae)",
     "text": "Chloroplast genome: DNA inside chloroplasts (plants/algae)\nWhat to notice\n\nChloroplasts (the organelles that perform photosynthesis) also contain their own DNA\nLike mtDNA, it is typically circular\n\n Figure. A plant cell, a chloroplast, and circular chloroplast DNA.",
     "crumbs": [
-      "Genomes and Where DNA Lives"
+      "Genomes"
     ]
   },
   {
     "objectID": "units/01_genomes.html#prokaryote-no-nucleus-dna-is-in-the-nucleoid",
     "href": "units/01_genomes.html#prokaryote-no-nucleus-dna-is-in-the-nucleoid",
-    "title": "Genomes and Where DNA Lives",
+    "title": "Genomes",
     "section": "Prokaryote: no nucleus, DNA is in the nucleoid",
     "text": "Prokaryote: no nucleus, DNA is in the nucleoid\nWhat to notice\nA prokaryotic cell doesn’t have membrane-bound organelles. It has:\n\nNo nucleus\nDNA concentrated in a nucleoid region\nOften small extra DNA circles (plasmids)\n\n Figure. Eukaryotic cell on the left, Prokaryotic cell with nucleoid DNA on the right. Image Source: Science Primer (National Center for Biotechnology Information). Vectorized by Mortadelo2005., Public domain, via Wikimedia Commons\n\n\n\n\n\n\nNoteVocabulary checkpoint\n\n\n\nThe nucleoid is not an organelle—it’s just the region where the chromosome is located.",
     "crumbs": [
-      "Genomes and Where DNA Lives"
+      "Genomes"
+    ]
+  },
+  {
+    "objectID": "units/03_ploidy.html",
+    "href": "units/03_ploidy.html",
+    "title": "Ploidy",
+    "section": "",
+    "text": "By the end, you should be able to:\n\nDefine ploidy using our course definition\nDetermine ploidy level (haploid, diploid, triploid, tetraploid, etc.) from a diagram or description\nTell the difference between a diploid/haploid cell and diploid/haploid number\nCalculate diploid number.\nIdentify homologous chromosomes vs sister chromatids",
+    "crumbs": [
+      "Ploidy"
+    ]
+  },
+  {
+    "objectID": "units/03_ploidy.html#what-youre-learning-here",
+    "href": "units/03_ploidy.html#what-youre-learning-here",
+    "title": "Ploidy",
+    "section": "",
+    "text": "By the end, you should be able to:\n\nDefine ploidy using our course definition\nDetermine ploidy level (haploid, diploid, triploid, tetraploid, etc.) from a diagram or description\nTell the difference between a diploid/haploid cell and diploid/haploid number\nCalculate diploid number.\nIdentify homologous chromosomes vs sister chromatids",
+    "crumbs": [
+      "Ploidy"
+    ]
+  },
+  {
+    "objectID": "units/03_ploidy.html#the-core-definition-use-this-all-semester",
+    "href": "units/03_ploidy.html#the-core-definition-use-this-all-semester",
+    "title": "Ploidy",
+    "section": "The core definition (use this all semester)",
+    "text": "The core definition (use this all semester)\n\n\n\n\n\n\nImportantPloidy (course definition)\n\n\n\nPloidy = the number of chromosomes in a complete set of homologs.",
+    "crumbs": [
+      "Ploidy"
+    ]
+  },
+  {
+    "objectID": "units/03_ploidy.html#different-species-and-different-cells-can-have-different-ploidy",
+    "href": "units/03_ploidy.html#different-species-and-different-cells-can-have-different-ploidy",
+    "title": "Ploidy",
+    "section": "Different species and different cells can have different ploidy",
+    "text": "Different species and different cells can have different ploidy\n\nSpecies ploidy differences\nWhen we refer to the ploidy of a species we are referring to the number of chromosomes that exist in a complete set in each somatic cell of an individual of that species.\n\nHumans and most mammals are diploid: two (2) homologs in each complete set.\n\n\n\n\n\n\n\nNoteDiploid\n\n\n\n\nDi = two\nploid = number of chromosomes\n\n\n\n Figure 1: One set of diploid homologous chromosomes.\nOrganisms that have more than two chromosomes in a complete set of homologous chromosomes are called polyploid.\n\n\n\n\n\n\nNotePolyploid\n\n\n\n\nPoly = many\nploid = number of chromosomes\n\n\n\nPolyploidy is common in plants, some species of strawberry have eight (8) chromosomes in each set of homologs (yes eight!). Polyploidy is less common in animals, but certainly not absent. Various species of amphibians have ploidys ranging from three (3) to twelve (12), and polyploid species have been identified in all major groups of tetrapods.\n\n\n\n\n\n\nNotePolyploidy names\n\n\n\nThe ploidy of an organism is determined by the number of homologs in each complete set.\nExample:\nTetraploid (four homologs in each complete set)\n\nTetra = four\nploid = number of chromosomes\n\nExample:\nOctoploid (eight homologs in each complete set)\n\nTetra = eight\nploid = number of chromosomes\n\n\n\n Figure 2: Two examples of polyploidy. One complete set of homologous chromosomes in a tetraploid organism and an octoploid organism.\n\n\n\n\n\n\nNotePolypolidy in agriculture\n\n\n\nMany plants are polyploid, and polyploidy is connected to traits like larger fruit size.\n\n\n\n\nCellular ploidy differences\nSexually reproducing species have two broad categories of cells: somatic and germ cells (gametes). Somatic cells make up the body’s tissues and organs. Germ cells are specifically for sexual reproduction. Somatic cells contain whatever the number of homologs make a complete set. For example, in humans somatic cells are diploid (2). Germ cells are created entirely for reproduction so their chromosomoal complement gets halved (they have half as many). In humans, germ cells are haploid (1). Think haploid = half. We will return to this in detail when we cover meiosis.\n Figure 3: Human germ cells and somatic cells. Source: National Human Genome Reserach Institute talking glossary of genomic and genetic terms.",
+    "crumbs": [
+      "Ploidy"
+    ]
+  },
+  {
+    "objectID": "units/03_ploidy.html#diploid-cell-vs-diploid-number-they-are-not-the-same",
+    "href": "units/03_ploidy.html#diploid-cell-vs-diploid-number-they-are-not-the-same",
+    "title": "Ploidy",
+    "section": "“Diploid cell” vs “diploid number” (they are not the same)",
+    "text": "“Diploid cell” vs “diploid number” (they are not the same)\nDiploid cell = has two versions of each chromosome (two homologs). Diploid number = the total number of chromosomes in that diploid cell.\n\n\n\n\n\n\nNoteWhat does 2n mean\n\n\n\n\n2n describes a diploid cell (two homologs per chromosome type)\n2n also helps you calculate the diploid number once you know n\nn is a variable, it can be replaced with the number of chromosome types to solve for the diploid number\n\n\n\n Figure 4. A human diploid ideogram: two homologs for each chromosome type. Source: UPO649 1112 mreycor1, CC BY-SA 3.0, via Wikimedia Commons. Edited by author.",
+    "crumbs": [
+      "Ploidy"
+    ]
+  },
+  {
+    "objectID": "units/03_ploidy.html#what-does-n-mean",
+    "href": "units/03_ploidy.html#what-does-n-mean",
+    "title": "Ploidy",
+    "section": "What does n mean?",
+    "text": "What does n mean?\nn = the number of distinct chromosome types. Remember that each chromosome type has its own unique set of genes. Humans have 23 chromosome types. Each of our 23 chromosomes has its own unique set of genes.\n Figure 5. Humans have 23 chromosome types. In humans n = 23. Source: UPO649 1112 mreycor1, CC BY-SA 3.0, via Wikimedia Commons. Edited by author.\n\nExample\nPretend a diploid organism has two chromosome types (chromosome 1 and 2). With this information we know:\n\nn = 2\ndiploid cell is 2n\ndiploid number is 2 × 2 = 4\n\n Figure 6. If n=2, then 2n=4 total chromosomes in a diploid cell.",
+    "crumbs": [
+      "Ploidy"
+    ]
+  },
+  {
+    "objectID": "units/03_ploidy.html#haploid-number",
+    "href": "units/03_ploidy.html#haploid-number",
+    "title": "Ploidy",
+    "section": "Haploid number",
+    "text": "Haploid number\n\n\n\n\n\n\nImportantThe cleanest shortcut\n\n\n\nThe haploid number is just n.",
+    "crumbs": [
+      "Ploidy"
+    ]
+  },
+  {
+    "objectID": "units/03_ploidy.html#why-chromosomes-sometimes-look-like-x-shapes",
+    "href": "units/03_ploidy.html#why-chromosomes-sometimes-look-like-x-shapes",
+    "title": "Ploidy",
+    "section": "Why chromosomes sometimes look like “X” shapes",
+    "text": "Why chromosomes sometimes look like “X” shapes\nBefore mitosis or meiosis, the cell replicates DNA in S-phase.\nAfter replication:\n\neach chromosome has two identical copies stuck together\nthose identical copies are sister chromatids\nthey are joined at the centromere\n\n Figure 7. A diploid organism with two chromosome types (1 & 2). On the left: Homologous chromosomes. On the right homologous chromosomes and sister chromatids. Sister chromatids are created during S-phase (synthesis phase of the cell cycle during which DNA replication occurs). Sister chromatids do not exist before S-phase.\n\n\n\n\n\n\nNoteQuick check\n\n\n\n\nSister chromatids = identical copies (same alleles), produced by DNA replicaiton\nHomologous chromosomes = same genes, alleles may differ",
+    "crumbs": [
+      "Ploidy"
+    ]
+  },
+  {
+    "objectID": "units/03_ploidy.html#summary-know-this-structure-not-numbers",
+    "href": "units/03_ploidy.html#summary-know-this-structure-not-numbers",
+    "title": "Ploidy",
+    "section": "Summary (know this structure, not numbers)",
+    "text": "Summary (know this structure, not numbers)\n\nn = number of chromosome types in one complete set\n\nPloidy = number in a complete set of homologs\n\n2n is diploid (two in a set), n is haploid (half of a diploid set)\nAfter S-phase, chromosomes are duplicated, but ploidy does not change (you still have the same number of sets)\n\n\n\n\n\n\n\nImportantOne sentence to keep you honest\n\n\n\nReplication makes sister chromatids; it does not change ploidy.",
+    "crumbs": [
+      "Ploidy"
     ]
   },
   {
@@ -77,6 +167,116 @@
     "text": "General Genetics\n\n01: Genomes\n02: Chromosomes\n03: Ploidy",
     "crumbs": [
       "General Genetics"
+    ]
+  },
+  {
+    "objectID": "units/02_chromosomes.html",
+    "href": "units/02_chromosomes.html",
+    "title": "Chromosomes",
+    "section": "",
+    "text": "what a chromosome is\nhow chromosomes differ from each other\nwhat it means for chromosomes to be homologous\n\nThis section builds the mental model you’ll use all semester.",
+    "crumbs": [
+      "Chromosomes"
+    ]
+  },
+  {
+    "objectID": "units/02_chromosomes.html#key-points",
+    "href": "units/02_chromosomes.html#key-points",
+    "title": "Chromosomes",
+    "section": "",
+    "text": "what a chromosome is\nhow chromosomes differ from each other\nwhat it means for chromosomes to be homologous\n\nThis section builds the mental model you’ll use all semester.",
+    "crumbs": [
+      "Chromosomes"
+    ]
+  },
+  {
+    "objectID": "units/02_chromosomes.html#what-is-a-chromosome",
+    "href": "units/02_chromosomes.html#what-is-a-chromosome",
+    "title": "Chromosomes",
+    "section": "What is a chromosome?",
+    "text": "What is a chromosome?\nA chromosome is:\n\none single DNA molecule\npackaged with proteins\ncontaining many genes and many sections without genes (intergenic regions)\ndefined by the genes it carries\n\n\n\n\n\n\n\nImportantCommon misconception\n\n\n\nA chromosome is not a single gene — it is a collection of many genes and intergenic regions arranged along one DNA molecule.\n\n\n Figure 2. Human Chromosome 19 is 58,517,616 base pairs long. The image depicts genes as pink lines and intergenic regions as white space.",
+    "crumbs": [
+      "Chromosomes"
+    ]
+  },
+  {
+    "objectID": "units/02_chromosomes.html#chromosomes-can-be-different-shapes",
+    "href": "units/02_chromosomes.html#chromosomes-can-be-different-shapes",
+    "title": "Chromosomes",
+    "section": "Chromosomes can be different shapes",
+    "text": "Chromosomes can be different shapes\n\nSome chromosomes are linear (like a piece of spagetti)\nSome chromosomes are circular (like a fruit loop)  Figure 1. Left: Chromosomes 1 - 3 of a human karyotype illustrating linear chromosomes. Right: A depiction of mitochondrial DNA illustrating circular chromosomes. Image source: National Human Genome Research Institute, Public domain, via Wikimedia Commons. Science Primer (National Center for Biotechnology Information). Vectorized by Mortadelo2005., Public domain, via Wikimedia Commons. Edited by author.",
+    "crumbs": [
+      "Chromosomes"
+    ]
+  },
+  {
+    "objectID": "units/02_chromosomes.html#different-chromosome-types-carry-different-genes",
+    "href": "units/02_chromosomes.html#different-chromosome-types-carry-different-genes",
+    "title": "Chromosomes",
+    "section": "Different Chromosome types carry different genes",
+    "text": "Different Chromosome types carry different genes\nEach chromosome type carries a unique set of genes.\nWhat to notice\nNone of the three chromosome types share genes.\n Figure 2. Three chromosome types, each with a unique set of genes.\n\n\n\n\n\n\nNoteImportant distinction\n\n\n\nTwo chromosomes are only considered the “same type” if they carry the same genes in the same order.",
+    "crumbs": [
+      "Chromosomes"
+    ]
+  },
+  {
+    "objectID": "units/02_chromosomes.html#different-species-have-different-numbers-of-chromosome-types",
+    "href": "units/02_chromosomes.html#different-species-have-different-numbers-of-chromosome-types",
+    "title": "Chromosomes",
+    "section": "Different species have different numbers of chromosome types",
+    "text": "Different species have different numbers of chromosome types\nThere is no universal chromosome number.\nExamples:\n\nHumans: 23 chromosome types\nDogs: 39 chromosome types\nFruit flies: 4 chromosome types\n\n Figure 4. Idoegrams of Human, Domestic dog, and Fruit fly chromosomes types. Source: National Center for Biotechnology Information Genome Data Viewer.\n\n\n\n\n\n\nNoteDo not assume\n\n\n\nMore chromosomes does not mean “more complex.”",
+    "crumbs": [
+      "Chromosomes"
+    ]
+  },
+  {
+    "objectID": "units/02_chromosomes.html#what-are-homologous-chromosomes-homologs",
+    "href": "units/02_chromosomes.html#what-are-homologous-chromosomes-homologs",
+    "title": "Chromosomes",
+    "section": "What are homologous chromosomes (homologs)?",
+    "text": "What are homologous chromosomes (homologs)?\nIn many organisms, chromosomes come in sets.\nHomologous chromosomes (or homologs) are the same chromosome type meaning each chromosome in the set has the same gene content in the same order.\n Figure 4. A homologous pair of chromosomes.",
+    "crumbs": [
+      "Chromosomes"
+    ]
+  },
+  {
+    "objectID": "units/02_chromosomes.html#homologs-have-the-same-genes-but-not-necessarily-the-same-alleles",
+    "href": "units/02_chromosomes.html#homologs-have-the-same-genes-but-not-necessarily-the-same-alleles",
+    "title": "Chromosomes",
+    "section": "Homologs have the same genes, but not necessarily the same alleles",
+    "text": "Homologs have the same genes, but not necessarily the same alleles\nThis point is critical.\nHomologous chromosomes:\n\nhave the same genes\nhave those genes in the same locations\nmay carry different alleles\n\n\n\n\n\n\n\nNoteWhat is an allele?\n\n\n\nAllele - different version of a gene. For example, if a gene codes for flower color, all alleles of that gene code for flower color but one allele might code for purple flower color while another codes for white flower color.\n\n\nIn the image below the number subscripts (e.g. ‘1’) next to the gene name (‘A’) represent the allele. These homologs carry different alleles for Gene A and C. They carry the same alleles for Gene B.  Figure 5. Homologous chromosomes carry the same genes but may have different alleles.\n\n\n\n\n\n\nImportantOne sentence to memorize\n\n\n\nHomologs = same genes, possibly different alleles.",
+    "crumbs": [
+      "Chromosomes"
+    ]
+  },
+  {
+    "objectID": "units/02_chromosomes.html#homologs-vs-different-chromosome-types-do-not-mix-these-up",
+    "href": "units/02_chromosomes.html#homologs-vs-different-chromosome-types-do-not-mix-these-up",
+    "title": "Chromosomes",
+    "section": "Homologs vs different chromosome types (do not mix these up)",
+    "text": "Homologs vs different chromosome types (do not mix these up)\n\n\n\nComparison\nHomologous chromosomes\nChromosome types\n\n\n\n\nGene content\nSame genes\nDifferent genes\n\n\nGene order\nSame order\nDifferent\n\n\nAlleles\nMay differ\nNot comparable",
+    "crumbs": [
+      "Chromosomes"
+    ]
+  },
+  {
+    "objectID": "units/02_chromosomes.html#how-many-chromosomes-are-there-in-a-set",
+    "href": "units/02_chromosomes.html#how-many-chromosomes-are-there-in-a-set",
+    "title": "Chromosomes",
+    "section": "How many chromosomes are there in a set?",
+    "text": "How many chromosomes are there in a set?\nThis depends on the organism and the cell type.\nHumans are diploid organisms. This means our cells have two (2) homologs in a set.\n\n\n\n\n\n\nNoteDiploid\n\n\n\n\nDi = two\nploid = number of chromosomes\n\n\n\n\n\n\n\n\n\nNotePreview\n\n\n\nThe number of chromosomes in a complete set is called ploidy — that’s next.",
+    "crumbs": [
+      "Chromosomes"
+    ]
+  },
+  {
+    "objectID": "units/02_chromosomes.html#big-picture-summary",
+    "href": "units/02_chromosomes.html#big-picture-summary",
+    "title": "Chromosomes",
+    "section": "Big picture summary",
+    "text": "Big picture summary\n\nA chromosome is a single DNA molecule containing many genes\nDifferent chromosome types carry different genes\nHomologous chromosomes are the same chromosome type carrying the same genes but may have different alleles\nSpecies can differ in:\n\nnumber of chromosome types\nnumber of homologs in a complete set (ploidy)",
+    "crumbs": [
+      "Chromosomes"
     ]
   }
 ]
