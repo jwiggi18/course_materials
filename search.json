@@ -1,0 +1,82 @@
+[
+  {
+    "objectID": "units/01_genomes.html",
+    "href": "units/01_genomes.html",
+    "title": "Genomes and Where DNA Lives",
+    "section": "",
+    "text": "NoteOfficial definition\n\n\n\nThe National Human Genome Research Institute defines a genome as the complete set of DNA in an organism.\n\n\nA genome is “all the DNA” — but all the DNA in what system?\nEukaryotic cells can contain more than one genome (nuclear + mitochondrial, and chloroplast in plants).\n\n\n\n\n\n\nImportantAvoid a common confusion\n\n\n\n\n“Genome” = all DNA in the system being discussed\n\n“Nuclear genome” = all DNA in the nucleus\n\n“Mitochondrial genome” = all DNA in mitochondria\n“Chloroplast genome” = all DNA in chloroplast",
+    "crumbs": [
+      "Genomes and Where DNA Lives"
+    ]
+  },
+  {
+    "objectID": "units/01_genomes.html#what-is-a-genome",
+    "href": "units/01_genomes.html#what-is-a-genome",
+    "title": "Genomes and Where DNA Lives",
+    "section": "",
+    "text": "NoteOfficial definition\n\n\n\nThe National Human Genome Research Institute defines a genome as the complete set of DNA in an organism.\n\n\nA genome is “all the DNA” — but all the DNA in what system?\nEukaryotic cells can contain more than one genome (nuclear + mitochondrial, and chloroplast in plants).\n\n\n\n\n\n\nImportantAvoid a common confusion\n\n\n\n\n“Genome” = all DNA in the system being discussed\n\n“Nuclear genome” = all DNA in the nucleus\n\n“Mitochondrial genome” = all DNA in mitochondria\n“Chloroplast genome” = all DNA in chloroplast",
+    "crumbs": [
+      "Genomes and Where DNA Lives"
+    ]
+  },
+  {
+    "objectID": "units/01_genomes.html#eukaryote-dna-is-in-compartments",
+    "href": "units/01_genomes.html#eukaryote-dna-is-in-compartments",
+    "title": "Genomes and Where DNA Lives",
+    "section": "Eukaryote: DNA is in compartments",
+    "text": "Eukaryote: DNA is in compartments\nWhat to notice\nIn the Eukaryotic cell on the left there are membrane-bound organelles including:\n\nA nucleus (holds most DNA)\nMitochondria (have their own DNA)\n\nThe prokaryotic cell on the right lacks organelles (more on that later).\n Figure. A eukaryotic cell has a nucleus and organelles a prokaryotic cell does not (more on that below). Image Source: Science Primer (National Center for Biotechnology Information). Vectorized by Mortadelo2005., Public domain, via Wikimedia Commons",
+    "crumbs": [
+      "Genomes and Where DNA Lives"
+    ]
+  },
+  {
+    "objectID": "units/01_genomes.html#nuclear-genome-dna-inside-the-nucleus",
+    "href": "units/01_genomes.html#nuclear-genome-dna-inside-the-nucleus",
+    "title": "Genomes and Where DNA Lives",
+    "section": "Nuclear genome: DNA inside the nucleus",
+    "text": "Nuclear genome: DNA inside the nucleus\nWhat to notice\n\nDNA is stored inside a membrane-bound nucleus\nThis DNA is packaged and organized (later: chromosomes)\n\n Figure. The nucleus houses most DNA in eukaryotic cells.",
+    "crumbs": [
+      "Genomes and Where DNA Lives"
+    ]
+  },
+  {
+    "objectID": "units/01_genomes.html#mitochondrial-genome-dna-inside-mitochondria",
+    "href": "units/01_genomes.html#mitochondrial-genome-dna-inside-mitochondria",
+    "title": "Genomes and Where DNA Lives",
+    "section": "Mitochondrial genome: DNA inside mitochondria",
+    "text": "Mitochondrial genome: DNA inside mitochondria\nWhat to notice\n\nMitochondria contain many small circular DNA molecules\nIt’s separate from the nuclear genome\n\n Figure. Magnification of the mitochondria from an animal cell and a depiction of mitocondrial circular DNA. Image Source: National Human Genome Research Institute, Public domain, via Wikimedia Commons",
+    "crumbs": [
+      "Genomes and Where DNA Lives"
+    ]
+  },
+  {
+    "objectID": "units/01_genomes.html#chloroplast-genome-dna-inside-chloroplasts-plantsalgae",
+    "href": "units/01_genomes.html#chloroplast-genome-dna-inside-chloroplasts-plantsalgae",
+    "title": "Genomes and Where DNA Lives",
+    "section": "Chloroplast genome: DNA inside chloroplasts (plants/algae)",
+    "text": "Chloroplast genome: DNA inside chloroplasts (plants/algae)\nWhat to notice\n\nChloroplasts (the organelles that perform photosynthesis) also contain their own DNA\nLike mtDNA, it is typically circular\n\n Figure. A plant cell, a chloroplast, and circular chloroplast DNA.",
+    "crumbs": [
+      "Genomes and Where DNA Lives"
+    ]
+  },
+  {
+    "objectID": "units/01_genomes.html#prokaryote-no-nucleus-dna-is-in-the-nucleoid",
+    "href": "units/01_genomes.html#prokaryote-no-nucleus-dna-is-in-the-nucleoid",
+    "title": "Genomes and Where DNA Lives",
+    "section": "Prokaryote: no nucleus, DNA is in the nucleoid",
+    "text": "Prokaryote: no nucleus, DNA is in the nucleoid\nWhat to notice\nA prokaryotic cell doesn’t have membrane-bound organelles. It has:\n\nNo nucleus\nDNA concentrated in a nucleoid region\nOften small extra DNA circles (plasmids)\n\n Figure. Eukaryotic cell on the left, Prokaryotic cell with nucleoid DNA on the right. Image Source: Science Primer (National Center for Biotechnology Information). Vectorized by Mortadelo2005., Public domain, via Wikimedia Commons\n\n\n\n\n\n\nNoteVocabulary checkpoint\n\n\n\nThe nucleoid is not an organelle—it’s just the region where the chromosome is located.",
+    "crumbs": [
+      "Genomes and Where DNA Lives"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "General Genetics",
+    "section": "",
+    "text": "General Genetics\n\n01: Genomes\n02: Chromosomes\n03: Ploidy",
+    "crumbs": [
+      "General Genetics"
+    ]
+  }
+]
