@@ -14,9 +14,8 @@ format:
   html:
     toc: true
   pdf:
-    include-in-header:
-      text: |
-        \usepackage{graphicx}
-        \setkeys{Gin}{draft}
+    toc: true
+    geometry: margin=1in
+
 
 

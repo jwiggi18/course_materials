@@ -1,5 +1,5 @@
 ---
-title: "Genomes and Where DNA Lives"
+title: "Genomes"
 ---
 
 ## What is a genome?
