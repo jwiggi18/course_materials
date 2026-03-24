@@ -9,6 +9,7 @@ website:
       - units/01_genomes.qmd
       - units/02_chromosomes.qmd
       - units/03_ploidy.qmd
+      - units/04_Prions.qmd
 
 format:
   html:
