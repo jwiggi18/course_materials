@@ -1,6 +1,7 @@
 ---
-title: "Prions: Infectious Proteins"
+title: "Prions"
 ---
+
 ## Note: This page is a rough draft, still a work in progress
 
 ## What you should understand
