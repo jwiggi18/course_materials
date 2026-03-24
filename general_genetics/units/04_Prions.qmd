@@ -1,6 +1,7 @@
 ---
 title: "Prions: Infectious Proteins"
 ---
+## Note: This page is a rough draft, still a work in progress
 
 ## What you should understand
 
@@ -37,16 +38,18 @@ The disease-causing form is called the **pathogenic form**, shorthand: **PrP<sup
 - cellular protein found in the body
 - soluble
 - sensitive to proteases
-- rich in **alpha helices**
+- rich in **alpha helices** (see Figure 1.)
 
 ### PrP<sup>Sc</sup> (pathogenic form)
 - misfolded form
 - tends to aggregate
 - more resistant to proteases
-- enriched in **beta sheets**
+- enriched in **beta sheets** (See Figure 1.)
 
-![](../images/prions_alpha_beta_placeholder.png){width=100%}
+![](../images/alphaHelix_betaPleatedSheet.png){width=100%}
+*Figure 1. The cellular prion protein and the pathogenic prion protein differ in shape and behavior.*
 
+![](../images/prions_celluar_pathogenic.png){width=100%}
 *Figure 2. The cellular prion protein and the pathogenic prion protein differ in shape and behavior.*
 
 :::callout-note
@@ -63,13 +66,13 @@ Prions spread by **template-directed misfolding**.
 
 A misfolded prion protein can interact with a cellular prion protein and cause it to misfold as well. This creates a chain reaction.
 
-![](../images/prions/prion_conversion_cycle.png){width=100%}
+
 
 *Figure 3. A pathogenic prion protein can induce cellular prion proteins to adopt the same harmful shape.*
 
 As misfolded proteins accumulate, they form aggregates and amyloid-like structures that damage nervous tissue.
 
-![](../images/prions/prion_aggregation.png){width=85%}
+
 
 *Figure 4. Misfolded prion proteins accumulate into aggregates that damage cells.*
 
@@ -130,7 +133,7 @@ Major effects include:
 - **cell death**  
   neurons are lost over time
 
-![](../images/prions/prion_brain_damage.png){width=95%}
+
 
 *Figure 7. Prion accumulation leads to brain dysfunction and degeneration.*
 
