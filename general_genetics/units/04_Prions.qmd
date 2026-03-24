@@ -47,10 +47,10 @@ The disease-causing form is called the **pathogenic form**, shorthand: **PrP<sup
 - enriched in **beta sheets** (See Figure 1.)
 
 ![](../images/alphaHelix_betaPleatedSheet.png){width=100%}
-*Figure 1. The cellular prion protein and the pathogenic prion protein differ in shape and behavior.*
+*Figure 1. The cellular prion protein is dominated by the alpha helix secondary protien shap. The pathogenic prion protein is dominated by the beta pleated sheet secondary protein shape.*
 
-![](../images/prions_celluar_pathogenic.png){width=100%}
-*Figure 2. The cellular prion protein and the pathogenic prion protein differ in shape and behavior.*
+![](../images/prions_cellular_pathogenic.png){width=100%}
+*Figure 2. The cellular prion protein and the pathogenic prion protein differ in shape which leads to different behavior.*
 
 :::callout-note
 ### Important distinction
