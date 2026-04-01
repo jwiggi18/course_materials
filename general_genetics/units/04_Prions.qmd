@@ -48,7 +48,7 @@ The disease-causing form is called the **pathogenic form**, shorthand: **PrP<sup
 - enriched in **beta sheets** (See Figure 1.)
 
 ![](../images/alphaHelix_betaPleatedSheet.png){width=100%}
-*Figure 1. The cellular prion protein is dominated by the alpha helix secondary protien shap. The pathogenic prion protein is dominated by the beta pleated sheet secondary protein shape.*
+*Figure 1. The cellular prion protein is dominated by the alpha helix secondary protein shape. The pathogenic prion protein is dominated by the beta pleated sheet secondary protein shape.*
 
 ![](../images/prions_cellular_pathogenic.png){width=100%}
 *Figure 2. The cellular prion protein and the pathogenic prion protein differ in shape which leads to different behavior.*
@@ -65,7 +65,7 @@ The problem is that a typically normal cellular protein **folds into the wrong s
 
 Prions spread by **template-directed misfolding**.
 
-A misfolded prion protein can interact with a cellular prion protein and cause it to misfold as well. This creates a chain reaction.
+A misfolded prion protein (PrP<sup>Sc</sup>), acting as the template, can interact with a cellular prion protein (PrP<sup>C</sup>) and cause it to misfold as well. This creates a chain reaction.
 
 
 
@@ -115,7 +115,7 @@ Examples:
 
 ### Animal prion diseases
 - bovine spongiform encephalopathy (BSE; “mad cow disease”)
-- scrapie
+- scrapie (this is where the 'Sc' in PrP<sup>Sc</sup> comes from)
 - chronic wasting disease (CWD)
 
 
@@ -193,5 +193,4 @@ There are currently **no effective cures**, but researchers are exploring:
 
 1. Why are prions considered unusual infectious agents?
 2. What is the difference between PrP<sup>C</sup> and PrP<sup>Sc</sup>?
-3. Why are homologous chromosomes and prions completely different concepts, even though both involve “versions” of a biological molecule?
-4. Why does a change in protein shape matter so much in prion disease?
+3. Why does a change in protein shape matter so much in general and specifically in prion disease?

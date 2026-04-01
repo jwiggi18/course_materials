@@ -27,7 +27,7 @@ A chromosome is not a single gene — it is a **collection of many genes and int
 :::
 
 ![](../images/human_ch19.png){width=100%}
-*Figure 2. Human Chromosome 19 is 58,517,616 base pairs long. The image depicts genes as pink lines and intergenic regions as white space.*
+*Figure 2. Human Chromosome 19 is 58,517,616 base pairs long and encodes ~1500 genes. The image depicts genes as pink lines and intergenic regions as white space.*
 
 ## Chromosomes can be different shapes
 - Some chromosomes are linear (like a piece of spagetti)
@@ -101,8 +101,8 @@ This point is *critical*.
 **Allele** - different version of a gene. For example, if a gene codes for flower color, all alleles of that gene code for flower color but one allele might code for purple flower color while another codes for white flower color. 
 :::
 
-In the image below the number subscripts (e.g. '1') next to the gene name ('A') represent the allele. These homologs carry different alleles for Gene A and C. 
-They carry the same alleles for Gene B. 
+In the image below the letter case (e.g. A vs a) represents the allele. These homologs carry different alleles for Gene A, B, and C. 
+ 
 ![](../images/homologs_diff_alleles.png){width=100%}
 *Figure 5. Homologous chromosomes carry the same genes but may have different alleles.*
 

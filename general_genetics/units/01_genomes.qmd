@@ -24,8 +24,6 @@ Eukaryotic cells can contain **more than one genome** (nuclear + mitochondrial, 
 
 ## Eukaryote: DNA is in compartments
 
-**What to notice**
-
 In the Eukaryotic cell on the left there are membrane-bound organelles including:
 
 - A **nucleus** (holds most DNA)
@@ -40,8 +38,6 @@ The prokaryotic cell on the right lacks organelles (more on that later).
 
 ## Nuclear genome: DNA inside the nucleus
 
-**What to notice**
-
 - DNA is stored inside a **membrane-bound nucleus**
 - This DNA is packaged and organized (later: chromosomes)
 
@@ -52,10 +48,8 @@ The prokaryotic cell on the right lacks organelles (more on that later).
 
 ## Mitochondrial genome: DNA inside mitochondria
 
-**What to notice**
-
 - Mitochondria contain many **small circular DNA molecules**
-- It’s separate from the nuclear genome
+- The mitochondrial genome is distinct from the nuclear genome
 
 ![](../images/mitochondria.png){fig-alt="Mitochondrion diagram" width=95%}
 *Figure. Magnification of the mitochondria from an animal cell and a depiction of mitocondrial circular DNA.* Image Source: National Human Genome Research Institute, Public domain, via Wikimedia Commons
@@ -64,8 +58,6 @@ The prokaryotic cell on the right lacks organelles (more on that later).
 ---
 
 ## Chloroplast genome: DNA inside chloroplasts (plants/algae)
-
-**What to notice**
 
 - Chloroplasts (the organelles that perform photosynthesis) also contain their own DNA
 - Like mtDNA, it is typically **circular**
@@ -77,8 +69,6 @@ The prokaryotic cell on the right lacks organelles (more on that later).
 
 ## Prokaryote: no nucleus, DNA is in the nucleoid
 
-**What to notice**
-
 A prokaryotic cell doesn't have membrane-bound organelles. It has:
 
 - No nucleus
@@ -88,7 +78,3 @@ A prokaryotic cell doesn't have membrane-bound organelles. It has:
 ![](../images/celltypes.png){fig-alt="Labeled prokaryotic cell with nucleoid and plasmids" width=95%}
 *Figure. Eukaryotic cell on the left, Prokaryotic cell with nucleoid DNA on the right.* Image Source: Science Primer (National Center for Biotechnology Information). Vectorized by Mortadelo2005., Public domain, via Wikimedia Commons
 
-:::callout-note
-### Vocabulary checkpoint
-The **nucleoid** is not an organelle—it’s just the region where the chromosome is located.
-:::
