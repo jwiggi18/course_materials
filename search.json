@@ -24,7 +24,7 @@
     "href": "units/01_genomes.html#eukaryote-dna-is-in-compartments",
     "title": "Genomes",
     "section": "Eukaryote: DNA is in compartments",
-    "text": "Eukaryote: DNA is in compartments\nWhat to notice\nIn the Eukaryotic cell on the left there are membrane-bound organelles including:\n\nA nucleus (holds most DNA)\nMitochondria (have their own DNA)\n\nThe prokaryotic cell on the right lacks organelles (more on that later).\n Figure. A eukaryotic cell has a nucleus and organelles a prokaryotic cell does not (more on that below). Image Source: Science Primer (National Center for Biotechnology Information). Vectorized by Mortadelo2005., Public domain, via Wikimedia Commons",
+    "text": "Eukaryote: DNA is in compartments\nIn the Eukaryotic cell on the left there are membrane-bound organelles including:\n\nA nucleus (holds most DNA)\nMitochondria (have their own DNA)\n\nThe prokaryotic cell on the right lacks organelles (more on that later).\n Figure. A eukaryotic cell has a nucleus and organelles a prokaryotic cell does not (more on that below). Image Source: Science Primer (National Center for Biotechnology Information). Vectorized by Mortadelo2005., Public domain, via Wikimedia Commons",
     "crumbs": [
       "Genomes"
     ]
@@ -34,7 +34,7 @@
     "href": "units/01_genomes.html#nuclear-genome-dna-inside-the-nucleus",
     "title": "Genomes",
     "section": "Nuclear genome: DNA inside the nucleus",
-    "text": "Nuclear genome: DNA inside the nucleus\nWhat to notice\n\nDNA is stored inside a membrane-bound nucleus\nThis DNA is packaged and organized (later: chromosomes)\n\n Figure. The nucleus houses most DNA in eukaryotic cells.",
+    "text": "Nuclear genome: DNA inside the nucleus\n\nDNA is stored inside a membrane-bound nucleus\nThis DNA is packaged and organized (later: chromosomes)\n\n Figure. The nucleus houses most DNA in eukaryotic cells.",
     "crumbs": [
       "Genomes"
     ]
@@ -44,7 +44,7 @@
     "href": "units/01_genomes.html#mitochondrial-genome-dna-inside-mitochondria",
     "title": "Genomes",
     "section": "Mitochondrial genome: DNA inside mitochondria",
-    "text": "Mitochondrial genome: DNA inside mitochondria\nWhat to notice\n\nMitochondria contain many small circular DNA molecules\nIt’s separate from the nuclear genome\n\n Figure. Magnification of the mitochondria from an animal cell and a depiction of mitocondrial circular DNA. Image Source: National Human Genome Research Institute, Public domain, via Wikimedia Commons",
+    "text": "Mitochondrial genome: DNA inside mitochondria\n\nMitochondria contain many small circular DNA molecules\nThe mitochondrial genome is distinct from the nuclear genome\n\n Figure. Magnification of the mitochondria from an animal cell and a depiction of mitocondrial circular DNA. Image Source: National Human Genome Research Institute, Public domain, via Wikimedia Commons",
     "crumbs": [
       "Genomes"
     ]
@@ -54,7 +54,7 @@
     "href": "units/01_genomes.html#chloroplast-genome-dna-inside-chloroplasts-plantsalgae",
     "title": "Genomes",
     "section": "Chloroplast genome: DNA inside chloroplasts (plants/algae)",
-    "text": "Chloroplast genome: DNA inside chloroplasts (plants/algae)\nWhat to notice\n\nChloroplasts (the organelles that perform photosynthesis) also contain their own DNA\nLike mtDNA, it is typically circular\n\n Figure. A plant cell, a chloroplast, and circular chloroplast DNA.",
+    "text": "Chloroplast genome: DNA inside chloroplasts (plants/algae)\n\nChloroplasts (the organelles that perform photosynthesis) also contain their own DNA\nLike mtDNA, it is typically circular\n\n Figure. A plant cell, a chloroplast, and circular chloroplast DNA.",
     "crumbs": [
       "Genomes"
     ]
@@ -64,9 +64,129 @@
     "href": "units/01_genomes.html#prokaryote-no-nucleus-dna-is-in-the-nucleoid",
     "title": "Genomes",
     "section": "Prokaryote: no nucleus, DNA is in the nucleoid",
-    "text": "Prokaryote: no nucleus, DNA is in the nucleoid\nWhat to notice\nA prokaryotic cell doesn’t have membrane-bound organelles. It has:\n\nNo nucleus\nDNA concentrated in a nucleoid region\nOften small extra DNA circles (plasmids)\n\n Figure. Eukaryotic cell on the left, Prokaryotic cell with nucleoid DNA on the right. Image Source: Science Primer (National Center for Biotechnology Information). Vectorized by Mortadelo2005., Public domain, via Wikimedia Commons\n\n\n\n\n\n\nNoteVocabulary checkpoint\n\n\n\nThe nucleoid is not an organelle—it’s just the region where the chromosome is located.",
+    "text": "Prokaryote: no nucleus, DNA is in the nucleoid\nA prokaryotic cell doesn’t have membrane-bound organelles. It has:\n\nNo nucleus\nDNA concentrated in a nucleoid region\nOften small extra DNA circles (plasmids)\n\n Figure. Eukaryotic cell on the left, Prokaryotic cell with nucleoid DNA on the right. Image Source: Science Primer (National Center for Biotechnology Information). Vectorized by Mortadelo2005., Public domain, via Wikimedia Commons",
     "crumbs": [
       "Genomes"
+    ]
+  },
+  {
+    "objectID": "units/02_chromosomes.html",
+    "href": "units/02_chromosomes.html",
+    "title": "Chromosomes",
+    "section": "",
+    "text": "what a chromosome is\nhow chromosomes differ from each other\nwhat it means for chromosomes to be homologous\n\nThis section builds the mental model you’ll use all semester.",
+    "crumbs": [
+      "Chromosomes"
+    ]
+  },
+  {
+    "objectID": "units/02_chromosomes.html#key-points",
+    "href": "units/02_chromosomes.html#key-points",
+    "title": "Chromosomes",
+    "section": "",
+    "text": "what a chromosome is\nhow chromosomes differ from each other\nwhat it means for chromosomes to be homologous\n\nThis section builds the mental model you’ll use all semester.",
+    "crumbs": [
+      "Chromosomes"
+    ]
+  },
+  {
+    "objectID": "units/02_chromosomes.html#what-is-a-chromosome",
+    "href": "units/02_chromosomes.html#what-is-a-chromosome",
+    "title": "Chromosomes",
+    "section": "What is a chromosome?",
+    "text": "What is a chromosome?\nA chromosome is:\n\none single DNA molecule\npackaged with proteins\ncontaining many genes and many sections without genes (intergenic regions)\ndefined by the genes it carries\n\n\n\n\n\n\n\nImportantCommon misconception\n\n\n\nA chromosome is not a single gene — it is a collection of many genes and intergenic regions arranged along one DNA molecule.\n\n\n Figure 2. Human Chromosome 19 is 58,517,616 base pairs long and encodes ~1500 genes. The image depicts genes as pink lines and intergenic regions as white space.",
+    "crumbs": [
+      "Chromosomes"
+    ]
+  },
+  {
+    "objectID": "units/02_chromosomes.html#chromosomes-can-be-different-shapes",
+    "href": "units/02_chromosomes.html#chromosomes-can-be-different-shapes",
+    "title": "Chromosomes",
+    "section": "Chromosomes can be different shapes",
+    "text": "Chromosomes can be different shapes\n\nSome chromosomes are linear (like a piece of spagetti)\nSome chromosomes are circular (like a fruit loop)  Figure 1. Left: Chromosomes 1 - 3 of a human karyotype illustrating linear chromosomes. Right: A depiction of mitochondrial DNA illustrating circular chromosomes. Image source: National Human Genome Research Institute, Public domain, via Wikimedia Commons. Science Primer (National Center for Biotechnology Information). Vectorized by Mortadelo2005., Public domain, via Wikimedia Commons. Edited by author.",
+    "crumbs": [
+      "Chromosomes"
+    ]
+  },
+  {
+    "objectID": "units/02_chromosomes.html#different-chromosome-types-carry-different-genes",
+    "href": "units/02_chromosomes.html#different-chromosome-types-carry-different-genes",
+    "title": "Chromosomes",
+    "section": "Different Chromosome types carry different genes",
+    "text": "Different Chromosome types carry different genes\nEach chromosome type carries a unique set of genes.\nWhat to notice\nNone of the three chromosome types share genes.\n Figure 2. Three chromosome types, each with a unique set of genes.\n\n\n\n\n\n\nNoteImportant distinction\n\n\n\nTwo chromosomes are only considered the “same type” if they carry the same genes in the same order.",
+    "crumbs": [
+      "Chromosomes"
+    ]
+  },
+  {
+    "objectID": "units/02_chromosomes.html#different-species-have-different-numbers-of-chromosome-types",
+    "href": "units/02_chromosomes.html#different-species-have-different-numbers-of-chromosome-types",
+    "title": "Chromosomes",
+    "section": "Different species have different numbers of chromosome types",
+    "text": "Different species have different numbers of chromosome types\nThere is no universal chromosome number.\nExamples:\n\nHumans: 23 chromosome types\nDogs: 39 chromosome types\nFruit flies: 4 chromosome types\n\n Figure 4. Idoegrams of Human, Domestic dog, and Fruit fly chromosomes types. Source: National Center for Biotechnology Information Genome Data Viewer.\n\n\n\n\n\n\nNoteDo not assume\n\n\n\nMore chromosomes does not mean “more complex.”",
+    "crumbs": [
+      "Chromosomes"
+    ]
+  },
+  {
+    "objectID": "units/02_chromosomes.html#what-are-homologous-chromosomes-homologs",
+    "href": "units/02_chromosomes.html#what-are-homologous-chromosomes-homologs",
+    "title": "Chromosomes",
+    "section": "What are homologous chromosomes (homologs)?",
+    "text": "What are homologous chromosomes (homologs)?\nIn many organisms, chromosomes come in sets.\nHomologous chromosomes (or homologs) are the same chromosome type meaning each chromosome in the set has the same gene content in the same order.\n Figure 4. A homologous pair of chromosomes.",
+    "crumbs": [
+      "Chromosomes"
+    ]
+  },
+  {
+    "objectID": "units/02_chromosomes.html#homologs-have-the-same-genes-but-not-necessarily-the-same-alleles",
+    "href": "units/02_chromosomes.html#homologs-have-the-same-genes-but-not-necessarily-the-same-alleles",
+    "title": "Chromosomes",
+    "section": "Homologs have the same genes, but not necessarily the same alleles",
+    "text": "Homologs have the same genes, but not necessarily the same alleles\nThis point is critical.\nHomologous chromosomes:\n\nhave the same genes\nhave those genes in the same locations\nmay carry different alleles\n\n\n\n\n\n\n\nNoteWhat is an allele?\n\n\n\nAllele - different version of a gene. For example, if a gene codes for flower color, all alleles of that gene code for flower color but one allele might code for purple flower color while another codes for white flower color.\n\n\nIn the image below the letter case (e.g. A vs a) represents the allele. These homologs carry different alleles for Gene A, B, and C.\n Figure 5. Homologous chromosomes carry the same genes but may have different alleles.\n\n\n\n\n\n\nImportantOne sentence to memorize\n\n\n\nHomologs = same genes, possibly different alleles.",
+    "crumbs": [
+      "Chromosomes"
+    ]
+  },
+  {
+    "objectID": "units/02_chromosomes.html#homologs-vs-different-chromosome-types-do-not-mix-these-up",
+    "href": "units/02_chromosomes.html#homologs-vs-different-chromosome-types-do-not-mix-these-up",
+    "title": "Chromosomes",
+    "section": "Homologs vs different chromosome types (do not mix these up)",
+    "text": "Homologs vs different chromosome types (do not mix these up)\n\n\n\nComparison\nHomologous chromosomes\nChromosome types\n\n\n\n\nGene content\nSame genes\nDifferent genes\n\n\nGene order\nSame order\nDifferent\n\n\nAlleles\nMay differ\nNot comparable",
+    "crumbs": [
+      "Chromosomes"
+    ]
+  },
+  {
+    "objectID": "units/02_chromosomes.html#how-many-chromosomes-are-there-in-a-set",
+    "href": "units/02_chromosomes.html#how-many-chromosomes-are-there-in-a-set",
+    "title": "Chromosomes",
+    "section": "How many chromosomes are there in a set?",
+    "text": "How many chromosomes are there in a set?\nThis depends on the organism and the cell type.\nHumans are diploid organisms. This means our cells have two (2) homologs in a set.\n\n\n\n\n\n\nNoteDiploid\n\n\n\n\nDi = two\nploid = number of chromosomes\n\n\n\n\n\n\n\n\n\nNotePreview\n\n\n\nThe number of chromosomes in a complete set is called ploidy — that’s next.",
+    "crumbs": [
+      "Chromosomes"
+    ]
+  },
+  {
+    "objectID": "units/02_chromosomes.html#big-picture-summary",
+    "href": "units/02_chromosomes.html#big-picture-summary",
+    "title": "Chromosomes",
+    "section": "Big picture summary",
+    "text": "Big picture summary\n\nA chromosome is a single DNA molecule containing many genes\nDifferent chromosome types carry different genes\nHomologous chromosomes are the same chromosome type carrying the same genes but may have different alleles\nSpecies can differ in:\n\nnumber of chromosome types\nnumber of homologs in a complete set (ploidy)",
+    "crumbs": [
+      "Chromosomes"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "General Genetics",
+    "section": "",
+    "text": "General Genetics\n\n01: Genomes\n02: Chromosomes\n03: Ploidy\n04: Prions",
+    "crumbs": [
+      "General Genetics"
     ]
   },
   {
@@ -160,123 +280,113 @@
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "General Genetics",
-    "section": "",
-    "text": "General Genetics\n\n01: Genomes\n02: Chromosomes\n03: Ploidy",
+    "objectID": "units/04_Prions.html#what-you-should-understand",
+    "href": "units/04_Prions.html#what-you-should-understand",
+    "title": "Prions",
+    "section": "What you should understand",
+    "text": "What you should understand\nBy the end of this section, you should be able to:\n\nExplain why prions are unusual infectious agents\nDistinguish between the normal and pathogenic forms of prion protein\nDescribe how prions spread within the body\nIdentify major human and animal prion diseases\nExplain why prion diseases are so damaging to the brain",
     "crumbs": [
-      "General Genetics"
+      "Prions"
     ]
   },
   {
-    "objectID": "units/02_chromosomes.html",
-    "href": "units/02_chromosomes.html",
-    "title": "Chromosomes",
-    "section": "",
-    "text": "what a chromosome is\nhow chromosomes differ from each other\nwhat it means for chromosomes to be homologous\n\nThis section builds the mental model you’ll use all semester.",
+    "objectID": "units/04_Prions.html#what-is-a-prion",
+    "href": "units/04_Prions.html#what-is-a-prion",
+    "title": "Prions",
+    "section": "What is a prion?",
+    "text": "What is a prion?\nA prion is an infectious misfolded protein.\n\n\n\n\n\n\nImportantKey idea\n\n\n\nPrions are unusual because they can spread disease without using DNA or RNA.\n\n\nMost infectious agents, such as bacteria and viruses, rely on nucleic acids (DNA or RNA). Prions do not. Instead, they spread by causing a normal protein to change shape into a harmful form.",
     "crumbs": [
-      "Chromosomes"
+      "Prions"
     ]
   },
   {
-    "objectID": "units/02_chromosomes.html#key-points",
-    "href": "units/02_chromosomes.html#key-points",
-    "title": "Chromosomes",
-    "section": "",
-    "text": "what a chromosome is\nhow chromosomes differ from each other\nwhat it means for chromosomes to be homologous\n\nThis section builds the mental model you’ll use all semester.",
+    "objectID": "units/04_Prions.html#the-cellular-and-pathogenic-forms",
+    "href": "units/04_Prions.html#the-cellular-and-pathogenic-forms",
+    "title": "Prions",
+    "section": "The cellular and pathogenic forms",
+    "text": "The cellular and pathogenic forms\nThe protein involved is called a Prion protein, shorthand: PrP The prion protein that carries out normal cellular funciton is called the cellular form, shorthand: PrPC.\nThe disease-causing form is called the pathogenic form, shorthand: PrPSc.\n\nPrPC (cellular form)\n\ncellular protein found in the body\nsoluble\nsensitive to proteases\nrich in alpha helices (see Figure 1.)\n\n\n\nPrPSc (pathogenic form)\n\nmisfolded form\ntends to aggregate\nmore resistant to proteases\nenriched in beta sheets (See Figure 1.)\n\n Figure 1. The cellular prion protein is dominated by the alpha helix secondary protein shape. The pathogenic prion protein is dominated by the beta pleated sheet secondary protein shape.\n Figure 2. The cellular prion protein and the pathogenic prion protein differ in shape which leads to different behavior.\n\n\n\n\n\n\nNoteImportant distinction\n\n\n\nThe problem is not that the prion protein is foreign.\nThe problem is that a typically normal cellular protein folds into the wrong shape.",
     "crumbs": [
-      "Chromosomes"
+      "Prions"
     ]
   },
   {
-    "objectID": "units/02_chromosomes.html#what-is-a-chromosome",
-    "href": "units/02_chromosomes.html#what-is-a-chromosome",
-    "title": "Chromosomes",
-    "section": "What is a chromosome?",
-    "text": "What is a chromosome?\nA chromosome is:\n\none single DNA molecule\npackaged with proteins\ncontaining many genes and many sections without genes (intergenic regions)\ndefined by the genes it carries\n\n\n\n\n\n\n\nImportantCommon misconception\n\n\n\nA chromosome is not a single gene — it is a collection of many genes and intergenic regions arranged along one DNA molecule.\n\n\n Figure 2. Human Chromosome 19 is 58,517,616 base pairs long. The image depicts genes as pink lines and intergenic regions as white space.",
+    "objectID": "units/04_Prions.html#how-do-prions-spread",
+    "href": "units/04_Prions.html#how-do-prions-spread",
+    "title": "Prions",
+    "section": "How do prions spread?",
+    "text": "How do prions spread?\nPrions spread by template-directed misfolding.\nA misfolded prion protein (PrPSc), acting as the template, can interact with a cellular prion protein (PrPC) and cause it to misfold as well. This creates a chain reaction.\nFigure 3. A pathogenic prion protein can induce cellular prion proteins to adopt the same harmful shape.\nAs misfolded proteins accumulate, they form aggregates and amyloid-like structures that damage nervous tissue.\nFigure 4. Misfolded prion proteins accumulate into aggregates that damage cells.",
     "crumbs": [
-      "Chromosomes"
+      "Prions"
     ]
   },
   {
-    "objectID": "units/02_chromosomes.html#chromosomes-can-be-different-shapes",
-    "href": "units/02_chromosomes.html#chromosomes-can-be-different-shapes",
-    "title": "Chromosomes",
-    "section": "Chromosomes can be different shapes",
-    "text": "Chromosomes can be different shapes\n\nSome chromosomes are linear (like a piece of spagetti)\nSome chromosomes are circular (like a fruit loop)  Figure 1. Left: Chromosomes 1 - 3 of a human karyotype illustrating linear chromosomes. Right: A depiction of mitochondrial DNA illustrating circular chromosomes. Image source: National Human Genome Research Institute, Public domain, via Wikimedia Commons. Science Primer (National Center for Biotechnology Information). Vectorized by Mortadelo2005., Public domain, via Wikimedia Commons. Edited by author.",
+    "objectID": "units/04_Prions.html#how-can-prion-disease-arise",
+    "href": "units/04_Prions.html#how-can-prion-disease-arise",
+    "title": "Prions",
+    "section": "How can prion disease arise?",
+    "text": "How can prion disease arise?\nPrion diseases can arise in three main ways.\n\n1. Sporadic\nThe disease appears without a clear external cause.\nExample: - sporadic Creutzfeldt-Jakob disease (sCJD)\n\n\n2. Genetic\nMutations in the PRNP gene increase the likelihood of prion misfolding.\nExample: - fatal familial insomnia (FFI)\n\n\n3. Acquired\nExposure to infectious prion material causes disease.\nExamples: - contaminated surgical instruments - contaminated food - infected tissue exposure",
     "crumbs": [
-      "Chromosomes"
+      "Prions"
     ]
   },
   {
-    "objectID": "units/02_chromosomes.html#different-chromosome-types-carry-different-genes",
-    "href": "units/02_chromosomes.html#different-chromosome-types-carry-different-genes",
-    "title": "Chromosomes",
-    "section": "Different Chromosome types carry different genes",
-    "text": "Different Chromosome types carry different genes\nEach chromosome type carries a unique set of genes.\nWhat to notice\nNone of the three chromosome types share genes.\n Figure 2. Three chromosome types, each with a unique set of genes.\n\n\n\n\n\n\nNoteImportant distinction\n\n\n\nTwo chromosomes are only considered the “same type” if they carry the same genes in the same order.",
+    "objectID": "units/04_Prions.html#human-and-animal-prion-diseases",
+    "href": "units/04_Prions.html#human-and-animal-prion-diseases",
+    "title": "Prions",
+    "section": "Human and animal prion diseases",
+    "text": "Human and animal prion diseases\n\nHuman prion diseases\n\nCreutzfeldt-Jakob disease (CJD)\nvariant CJD (vCJD)\nfatal familial insomnia (FFI)\nGerstmann-Sträussler-Scheinker syndrome (GSS)\nkuru\n\n\n\nAnimal prion diseases\n\nbovine spongiform encephalopathy (BSE; “mad cow disease”)\nscrapie (this is where the ‘Sc’ in PrPSc comes from)\nchronic wasting disease (CWD)",
     "crumbs": [
-      "Chromosomes"
+      "Prions"
     ]
   },
   {
-    "objectID": "units/02_chromosomes.html#different-species-have-different-numbers-of-chromosome-types",
-    "href": "units/02_chromosomes.html#different-species-have-different-numbers-of-chromosome-types",
-    "title": "Chromosomes",
-    "section": "Different species have different numbers of chromosome types",
-    "text": "Different species have different numbers of chromosome types\nThere is no universal chromosome number.\nExamples:\n\nHumans: 23 chromosome types\nDogs: 39 chromosome types\nFruit flies: 4 chromosome types\n\n Figure 4. Idoegrams of Human, Domestic dog, and Fruit fly chromosomes types. Source: National Center for Biotechnology Information Genome Data Viewer.\n\n\n\n\n\n\nNoteDo not assume\n\n\n\nMore chromosomes does not mean “more complex.”",
+    "objectID": "units/04_Prions.html#why-do-prions-damage-the-brain",
+    "href": "units/04_Prions.html#why-do-prions-damage-the-brain",
+    "title": "Prions",
+    "section": "Why do prions damage the brain?",
+    "text": "Why do prions damage the brain?\nPrion diseases are neurodegenerative diseases. As misfolded prion proteins accumulate, they disrupt normal brain function.\nMajor effects include:\n\nsynaptic dysfunction\ncommunication between neurons breaks down\nneuroinflammation\nimmune activity in the brain contributes to damage\ncell death\nneurons are lost over time\n\nFigure 7. Prion accumulation leads to brain dysfunction and degeneration.\n\n\n\n\n\n\nImportantBig picture\n\n\n\nPrion diseases are progressive, fatal brain diseases caused by a misfolded protein that spreads its shape to other proteins.",
     "crumbs": [
-      "Chromosomes"
+      "Prions"
     ]
   },
   {
-    "objectID": "units/02_chromosomes.html#what-are-homologous-chromosomes-homologs",
-    "href": "units/02_chromosomes.html#what-are-homologous-chromosomes-homologs",
-    "title": "Chromosomes",
-    "section": "What are homologous chromosomes (homologs)?",
-    "text": "What are homologous chromosomes (homologs)?\nIn many organisms, chromosomes come in sets.\nHomologous chromosomes (or homologs) are the same chromosome type meaning each chromosome in the set has the same gene content in the same order.\n Figure 4. A homologous pair of chromosomes.",
+    "objectID": "units/04_Prions.html#why-are-prions-scientifically-important",
+    "href": "units/04_Prions.html#why-are-prions-scientifically-important",
+    "title": "Prions",
+    "section": "Why are prions scientifically important?",
+    "text": "Why are prions scientifically important?\nPrions changed how scientists think about infection.\nBefore prions were discovered, infectious disease was thought to require a pathogen carrying nucleic acid. Prions showed that protein shape alone can carry biological information and spread disease.\nThis makes prions important not only for medicine, but also for our understanding of: - protein folding - neurodegeneration - inheritance and mutation - the relationship between structure and function",
     "crumbs": [
-      "Chromosomes"
+      "Prions"
     ]
   },
   {
-    "objectID": "units/02_chromosomes.html#homologs-have-the-same-genes-but-not-necessarily-the-same-alleles",
-    "href": "units/02_chromosomes.html#homologs-have-the-same-genes-but-not-necessarily-the-same-alleles",
-    "title": "Chromosomes",
-    "section": "Homologs have the same genes, but not necessarily the same alleles",
-    "text": "Homologs have the same genes, but not necessarily the same alleles\nThis point is critical.\nHomologous chromosomes:\n\nhave the same genes\nhave those genes in the same locations\nmay carry different alleles\n\n\n\n\n\n\n\nNoteWhat is an allele?\n\n\n\nAllele - different version of a gene. For example, if a gene codes for flower color, all alleles of that gene code for flower color but one allele might code for purple flower color while another codes for white flower color.\n\n\nIn the image below the number subscripts (e.g. ‘1’) next to the gene name (‘A’) represent the allele. These homologs carry different alleles for Gene A and C. They carry the same alleles for Gene B.  Figure 5. Homologous chromosomes carry the same genes but may have different alleles.\n\n\n\n\n\n\nImportantOne sentence to memorize\n\n\n\nHomologs = same genes, possibly different alleles.",
+    "objectID": "units/04_Prions.html#diagnosis-and-treatment",
+    "href": "units/04_Prions.html#diagnosis-and-treatment",
+    "title": "Prions",
+    "section": "Diagnosis and treatment",
+    "text": "Diagnosis and treatment\nPrion diseases are difficult to diagnose early because they: - often have long incubation periods - share symptoms with other neurodegenerative diseases - progress rapidly once symptoms appear\nCommon approaches include: - MRI - RT-QuIC - post-mortem tissue analysis\nThere are currently no effective cures, but researchers are exploring: - drugs that reduce aggregation - methods to reduce normal prion protein production - immunological approaches",
     "crumbs": [
-      "Chromosomes"
+      "Prions"
     ]
   },
   {
-    "objectID": "units/02_chromosomes.html#homologs-vs-different-chromosome-types-do-not-mix-these-up",
-    "href": "units/02_chromosomes.html#homologs-vs-different-chromosome-types-do-not-mix-these-up",
-    "title": "Chromosomes",
-    "section": "Homologs vs different chromosome types (do not mix these up)",
-    "text": "Homologs vs different chromosome types (do not mix these up)\n\n\n\nComparison\nHomologous chromosomes\nChromosome types\n\n\n\n\nGene content\nSame genes\nDifferent genes\n\n\nGene order\nSame order\nDifferent\n\n\nAlleles\nMay differ\nNot comparable",
+    "objectID": "units/04_Prions.html#summary",
+    "href": "units/04_Prions.html#summary",
+    "title": "Prions",
+    "section": "Summary",
+    "text": "Summary\n\nA prion is an infectious misfolded protein\nPrions do not use DNA or RNA to spread\nThe pathogenic form causes the normal form to misfold\nPrion diseases can be sporadic, genetic, or acquired\nPrions damage the nervous system and cause fatal neurodegeneration",
     "crumbs": [
-      "Chromosomes"
+      "Prions"
     ]
   },
   {
-    "objectID": "units/02_chromosomes.html#how-many-chromosomes-are-there-in-a-set",
-    "href": "units/02_chromosomes.html#how-many-chromosomes-are-there-in-a-set",
-    "title": "Chromosomes",
-    "section": "How many chromosomes are there in a set?",
-    "text": "How many chromosomes are there in a set?\nThis depends on the organism and the cell type.\nHumans are diploid organisms. This means our cells have two (2) homologs in a set.\n\n\n\n\n\n\nNoteDiploid\n\n\n\n\nDi = two\nploid = number of chromosomes\n\n\n\n\n\n\n\n\n\nNotePreview\n\n\n\nThe number of chromosomes in a complete set is called ploidy — that’s next.",
+    "objectID": "units/04_Prions.html#check-your-understanding",
+    "href": "units/04_Prions.html#check-your-understanding",
+    "title": "Prions",
+    "section": "Check your understanding",
+    "text": "Check your understanding\n\nWhy are prions considered unusual infectious agents?\nWhat is the difference between PrPC and PrPSc?\nWhy does a change in protein shape matter so much in general and specifically in prion disease?",
     "crumbs": [
-      "Chromosomes"
-    ]
-  },
-  {
-    "objectID": "units/02_chromosomes.html#big-picture-summary",
-    "href": "units/02_chromosomes.html#big-picture-summary",
-    "title": "Chromosomes",
-    "section": "Big picture summary",
-    "text": "Big picture summary\n\nA chromosome is a single DNA molecule containing many genes\nDifferent chromosome types carry different genes\nHomologous chromosomes are the same chromosome type carrying the same genes but may have different alleles\nSpecies can differ in:\n\nnumber of chromosome types\nnumber of homologs in a complete set (ploidy)",
-    "crumbs": [
-      "Chromosomes"
+      "Prions"
     ]
   }
 ]
