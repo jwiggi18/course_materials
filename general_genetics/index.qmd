@@ -4,3 +4,4 @@
 - [02: Chromosomes](units/02_chromosomes.qmd)
 - [03: Ploidy](units/03_ploidy.qmd)
 - [04: Prions](units/04_Prions.qmd)
+- [05: Population Genetics](units/05_population_genetics.qmd)

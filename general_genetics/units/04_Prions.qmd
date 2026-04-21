@@ -25,7 +25,7 @@ A **prion** is an **infectious misfolded protein**.
 Prions are unusual because they can spread disease **without using DNA or RNA**.
 :::
 
-Most infectious agents, such as bacteria and viruses, rely on nucleic acids (DNA or RNA). Prions do not. Instead, they spread by causing a **normal protein** to change shape into a harmful form.
+Most infectious agents, such as bacteria and viruses, rely on nucleic acids (DNA or RNA). Prions do not. Instead, they spread by causing a **normal protein** to change shape into a harmful (pathogenic) form.
 
 
 ***
@@ -36,15 +36,15 @@ The prion protein that carries out normal cellular funciton is called the **cell
 The disease-causing form is called the **pathogenic form**, shorthand: **PrP<sup>Sc</sup>**.
 
 ### PrP<sup>C</sup> (cellular form)
-- cellular protein found in the body
+- cellular protein found normally in the body
 - soluble
-- sensitive to proteases
+- sensitive to proteases (easy to degrade when needed)
 - rich in **alpha helices** (see Figure 1.)
 
 ### PrP<sup>Sc</sup> (pathogenic form)
 - misfolded form
-- tends to aggregate
-- more resistant to proteases
+- tends to aggregate (clump)
+- more resistant to proteases (difficult to degrade)
 - enriched in **beta sheets** (See Figure 1.)
 
 ![](../images/alphaHelix_betaPleatedSheet.png){width=100%}
@@ -55,8 +55,7 @@ The disease-causing form is called the **pathogenic form**, shorthand: **PrP<sup
 
 :::callout-note
 ### Important distinction
-The problem is not that the prion protein is foreign.  
-The problem is that a typically normal cellular protein **folds into the wrong shape**.
+Pathogenic prion proteins are not foreign invaders, as with bacteria and viruses.  They are typically normal cellular protein **folded into the wrong shape**. This misfolding can spread to other cellular prion proteins converting them to the pathogenic form. 
 :::
 
 ***
@@ -65,13 +64,13 @@ The problem is that a typically normal cellular protein **folds into the wrong s
 
 Prions spread by **template-directed misfolding**.
 
-A misfolded prion protein (PrP<sup>Sc</sup>), acting as the template, can interact with a cellular prion protein (PrP<sup>C</sup>) and cause it to misfold as well. This creates a chain reaction.
+A misfolded pathogenic prion protein (PrP<sup>Sc</sup>) acts as a template.  It interacts with a cellular prion protein (PrP<sup>C</sup>) and causes it to misfold, turning the cellular prion protein (PrP<sup>C</sup>)into a pathogenic prion protein (PrP<sup>Sc</sup>). This creates a chain reaction. Each newly converted protein converts other proteins.
 
 
 
 *Figure 3. A pathogenic prion protein can induce cellular prion proteins to adopt the same harmful shape.*
 
-As misfolded proteins accumulate, they form aggregates and amyloid-like structures that damage nervous tissue.
+As misfolded proteins accumulate, they form clumps called aggregates that damage nervous tissue.
 
 
 
@@ -79,7 +78,7 @@ As misfolded proteins accumulate, they form aggregates and amyloid-like structur
 
 ***
 
-## How can prion disease arise?
+## How does prion disease arise?
 
 Prion diseases can arise in three main ways.
 
@@ -147,9 +146,9 @@ Prion diseases are progressive, fatal brain diseases caused by a misfolded prote
 
 ## Why are prions scientifically important?
 
-Prions changed how scientists think about infection.
+Prions changed how we understand infection.
 
-Before prions were discovered, infectious disease was thought to require a pathogen carrying nucleic acid. Prions showed that **protein shape alone** can carry biological information and spread disease.
+Before prions were discovered, infectious disease was thought to require a pathogen (like a bacteria or virus) carrying nucleic acid (DNA or RNA). Prions showed that **protein shape alone** can carry biological information and spread disease.
 
 This makes prions important not only for medicine, but also for our understanding of:
 - protein folding

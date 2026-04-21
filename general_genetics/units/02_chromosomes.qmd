@@ -8,8 +8,6 @@ title: "Chromosomes"
 - how chromosomes differ from each other
 - what it means for chromosomes to be **homologous**
 
-This section builds the mental model you’ll use all semester.
-
 ***
 
 ## What is a chromosome?
@@ -26,8 +24,9 @@ A **chromosome** is:
 A chromosome is not a single gene — it is a **collection of many genes and intergenic regions arranged along one DNA molecule**.
 :::
 
+
 ![](../images/human_ch19.png){width=100%}
-*Figure 2. Human Chromosome 19 is 58,517,616 base pairs long and encodes ~1500 genes. The image depicts genes as pink lines and intergenic regions as white space.*
+*Figure 2. A representation of human chromosome 19 as if it were layed flat. This single molecule of DNA is 58,517,616 base pairs long and encodes ~1500 genes. The image depicts genes as pink lines and intergenic regions as white space.*
 
 ## Chromosomes can be different shapes
 - Some chromosomes are linear (like a piece of spagetti)
@@ -37,15 +36,15 @@ A chromosome is not a single gene — it is a **collection of many genes and int
 Image source: National Human Genome Research Institute, Public domain, via Wikimedia Commons. Science Primer (National Center for Biotechnology Information). Vectorized by Mortadelo2005., Public domain, via Wikimedia Commons. Edited by author. 
 
 ***
-## Different Chromosome types carry different genes
-Each chromosome type carries a **unique set of genes**.
+## Chromosome Types
+Chromosome types are defined by which genes they carry. For example chromosome 19 above is a distinct chromosome type. The 1500 genes it carries ar unique to it. The other 22 chromosome types that make up the human genome all carry genes different from those encoded by chromosome 19 and also different from each other. Each chromosome type carries a **unique set of genes**.
 
 **What to notice**
 
 None of the three chromosome types share genes. 
 
 ![](../images/chromosome_types.png){width=100%}
-*Figure 2. Three chromosome types, each with a unique set of genes.*
+*Figure 2. The image above illustrates the concept of chromosome types. The three chromosome types each encode a set of genes, none of the genes are shared across chromosome types. For example chromosome 1 encodes gene A, neither chromosome 2 nor chromosome 3 encode gene A.*
 
 :::callout-note
 ### Important distinction
@@ -128,7 +127,7 @@ In the image below the letter case (e.g. A vs a) represents the allele. These ho
 
 This depends on the organism and the cell type.
 
-Humans are diploid organisms. This means our cells have two (2) homologs in a set.
+Humans are diploid organisms. This means most of our cells have two (2) homologs in a set.
 
 :::callout-note
 ### Diploid
@@ -147,7 +146,7 @@ The number of chromosomes in a complete set is called **ploidy** — that’s ne
 
 ## Big picture summary
 
-- A **chromosome** is a single DNA molecule containing many genes
+- A **chromosome** is a single DNA molecule containing many genes and intergenic regions
 - Different **chromosome types** carry different genes
 - **Homologous chromosomes** are the same chromosome type carrying the same genes but may have different alleles
 - Species can differ in:

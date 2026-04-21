@@ -9,11 +9,11 @@ title: "Genomes"
 The National Human Genome Research Institute defines a **[genome](https://www.genome.gov/genetics-glossary/Genome){target="_blank"}** as the complete set of DNA in an organism.
 :::
 
-A **genome** is “all the DNA” — but *all the DNA in what system?*  
+A **genome** is “all the DNA” — but *all the DNA in what?*  
 Eukaryotic cells can contain **more than one genome** (nuclear + mitochondrial, and chloroplast in plants).
 
 :::callout-important
-### Avoid a common confusion
+### Prokaryotic genomes
 - **“Genome”** = all DNA in the system being discussed  
 - **“Nuclear genome”** = all DNA in the nucleus  
 - **“Mitochondrial genome”** = all DNA in mitochondria 
@@ -24,10 +24,11 @@ Eukaryotic cells can contain **more than one genome** (nuclear + mitochondrial, 
 
 ## Eukaryote: DNA is in compartments
 
-In the Eukaryotic cell on the left there are membrane-bound organelles including:
+In the Eukaryotic animal cell on the left there are membrane-bound organelles including:
 
-- A **nucleus** (holds most DNA)
-- **Mitochondria** (have their own DNA)
+- A **nucleus** holds the nuclear genome, the majority of a eukaryote's DNA
+- **Mitochondria** an organelle distinct from the nucleus that has its own DNA
+- Were this a plant cell it would also contain **chloroplast**, an organelle that photosynthesizes and has its own DNA
 
 The prokaryotic cell on the right lacks organelles (more on that later).
 
@@ -39,7 +40,7 @@ The prokaryotic cell on the right lacks organelles (more on that later).
 ## Nuclear genome: DNA inside the nucleus
 
 - DNA is stored inside a **membrane-bound nucleus**
-- This DNA is packaged and organized (later: chromosomes)
+- This DNA is packaged and organized into structures called chromosomes
 
 ![](../images/nucleus.png){fig-alt="Labeled nucleus diagram" width=95%}
 *Figure. The nucleus houses most DNA in eukaryotic cells.*
@@ -60,20 +61,20 @@ The prokaryotic cell on the right lacks organelles (more on that later).
 ## Chloroplast genome: DNA inside chloroplasts (plants/algae)
 
 - Chloroplasts (the organelles that perform photosynthesis) also contain their own DNA
-- Like mtDNA, it is typically **circular**
+- Like mitochondrial DNA, it is typically **circular**
 
 ![](../images/chloroplast.png){fig-alt="Chloroplast diagram" width=95%}
 *Figure.  A plant cell, a chloroplast, and circular chloroplast DNA.*
 
 ---
 
-## Prokaryote: no nucleus, DNA is in the nucleoid
+## Prokaryote: no nucleus, DNA is in an area called the nucleoid
 
 A prokaryotic cell doesn't have membrane-bound organelles. It has:
 
-- No nucleus
-- DNA concentrated in a **nucleoid region**
-- Often small extra DNA circles (**plasmids**)
+- No nucleus, mitochondria, or chloroplast 
+- DNA is concentrated in a **nucleoid region** (no membrane, just an area)
+- Often small extra DNA circles called **plasmids**
 
 ![](../images/celltypes.png){fig-alt="Labeled prokaryotic cell with nucleoid and plasmids" width=95%}
 *Figure. Eukaryotic cell on the left, Prokaryotic cell with nucleoid DNA on the right.* Image Source: Science Primer (National Center for Biotechnology Information). Vectorized by Mortadelo2005., Public domain, via Wikimedia Commons
