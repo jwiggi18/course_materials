@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://jwiggi18.github.io/course_materials/units/01_genomes.html</loc>
-    <lastmod>2026-04-01T22:13:12.800Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jwiggi18.github.io/course_materials/units/02_chromosomes.html</loc>
-    <lastmod>2026-04-01T23:15:48.752Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jwiggi18.github.io/course_materials/index.html</loc>
-    <lastmod>2026-03-24T22:24:02.010Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jwiggi18.github.io/course_materials/units/03_ploidy.html</loc>
-    <lastmod>2026-01-16T21:19:45.400Z</lastmod>
+    <loc>https://jwiggi18.github.io/course_materials/activities/index.html</loc>
+    <lastmod>2026-05-06T18:29:45.627Z</lastmod>
   </url>
   <url>
     <loc>https://jwiggi18.github.io/course_materials/units/04_Prions.html</loc>
-    <lastmod>2026-04-01T22:05:57.344Z</lastmod>
+    <lastmod>2026-04-21T01:54:50.515Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jwiggi18.github.io/course_materials/units/03_ploidy.html</loc>
+    <lastmod>2026-04-21T01:43:12.318Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jwiggi18.github.io/course_materials/index.html</loc>
+    <lastmod>2026-05-06T18:35:17.419Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jwiggi18.github.io/course_materials/units/05_population_genetics.html</loc>
+    <lastmod>2026-04-02T14:39:21.837Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jwiggi18.github.io/course_materials/units/02_chromosomes.html</loc>
+    <lastmod>2026-04-21T01:35:53.436Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jwiggi18.github.io/course_materials/units/01_genomes.html</loc>
+    <lastmod>2026-04-21T01:20:46.976Z</lastmod>
   </url>
 </urlset>

@@ -81,7 +81,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../units/04_Prions.html">Prions</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../units/01_genomes.html">Units</a></li><li class="breadcrumb-item"><a href="../units/04_Prions.html">Prions</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -112,30 +112,64 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">General Genetics</span></a>
   </div>
 </li>
-        <li class="sidebar-item">
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
+ <span class="menu-text">Units</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../units/01_genomes.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Genomes</span></a>
   </div>
 </li>
-        <li class="sidebar-item">
+          <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../units/02_chromosomes.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Chromosomes</span></a>
   </div>
 </li>
-        <li class="sidebar-item">
+          <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../units/03_ploidy.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Ploidy</span></a>
   </div>
 </li>
-        <li class="sidebar-item">
+          <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../units/04_Prions.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Prions</span></a>
   </div>
 </li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../units/05_population_genetics.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">05_population_genetics.html</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true">
+ <span class="menu-text">Practice &amp; Exploration</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../activities/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Practice &amp; Exploration</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
     </ul>
     </div>
 </nav>
@@ -155,7 +189,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#prpsc-pathogenic-form" id="toc-prpsc-pathogenic-form" class="nav-link" data-scroll-target="#prpsc-pathogenic-form">PrP<sup>Sc</sup> (pathogenic form)</a></li>
   </ul></li>
   <li><a href="#how-do-prions-spread" id="toc-how-do-prions-spread" class="nav-link" data-scroll-target="#how-do-prions-spread">How do prions spread?</a></li>
-  <li><a href="#how-can-prion-disease-arise" id="toc-how-can-prion-disease-arise" class="nav-link" data-scroll-target="#how-can-prion-disease-arise">How can prion disease arise?</a>
+  <li><a href="#how-does-prion-disease-arise" id="toc-how-does-prion-disease-arise" class="nav-link" data-scroll-target="#how-does-prion-disease-arise">How does prion disease arise?</a>
   <ul class="collapse">
   <li><a href="#sporadic" id="toc-sporadic" class="nav-link" data-scroll-target="#sporadic">1. Sporadic</a></li>
   <li><a href="#genetic" id="toc-genetic" class="nav-link" data-scroll-target="#genetic">2. Genetic</a></li>
@@ -177,7 +211,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../units/01_genomes.html">Units</a></li><li class="breadcrumb-item"><a href="../units/04_Prions.html">Prions</a></li></ol></nav>
 <div class="quarto-title">
 <h1 class="title">Prions</h1>
 </div>
@@ -227,7 +261,7 @@ ul.task-list li input[type="checkbox"] {
 <p>Prions are unusual because they can spread disease <strong>without using DNA or RNA</strong>.</p>
 </div>
 </div>
-<p>Most infectious agents, such as bacteria and viruses, rely on nucleic acids (DNA or RNA). Prions do not. Instead, they spread by causing a <strong>normal protein</strong> to change shape into a harmful form.</p>
+<p>Most infectious agents, such as bacteria and viruses, rely on nucleic acids (DNA or RNA). Prions do not. Instead, they spread by causing a <strong>normal protein</strong> to change shape into a harmful (pathogenic) form.</p>
 <hr>
 </section>
 <section id="the-cellular-and-pathogenic-forms" class="level2">
@@ -237,9 +271,9 @@ The disease-causing form is called the <strong>pathogenic form</strong>, shortha
 <section id="prpc-cellular-form" class="level3">
 <h3 class="anchored" data-anchor-id="prpc-cellular-form">PrP<sup>C</sup> (cellular form)</h3>
 <ul>
-<li>cellular protein found in the body</li>
+<li>cellular protein found normally in the body</li>
 <li>soluble</li>
-<li>sensitive to proteases</li>
+<li>sensitive to proteases (easy to degrade when needed)</li>
 <li>rich in <strong>alpha helices</strong> (see Figure 1.)</li>
 </ul>
 </section>
@@ -247,8 +281,8 @@ The disease-causing form is called the <strong>pathogenic form</strong>, shortha
 <h3 class="anchored" data-anchor-id="prpsc-pathogenic-form">PrP<sup>Sc</sup> (pathogenic form)</h3>
 <ul>
 <li>misfolded form</li>
-<li>tends to aggregate</li>
-<li>more resistant to proteases</li>
+<li>tends to aggregate (clump)</li>
+<li>more resistant to proteases (difficult to degrade)</li>
 <li>enriched in <strong>beta sheets</strong> (See Figure 1.)</li>
 </ul>
 <p><img src="../images/alphaHelix_betaPleatedSheet.png" class="img-fluid" style="width:100.0%"> <em>Figure 1. The cellular prion protein is dominated by the alpha helix secondary protein shape. The pathogenic prion protein is dominated by the beta pleated sheet secondary protein shape.</em></p>
@@ -263,8 +297,7 @@ The disease-causing form is called the <strong>pathogenic form</strong>, shortha
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>The problem is not that the prion protein is foreign.<br>
-The problem is that a typically normal cellular protein <strong>folds into the wrong shape</strong>.</p>
+<p>Pathogenic prion proteins are not foreign invaders, as with bacteria and viruses. They are typically normal cellular protein <strong>folded into the wrong shape</strong>. This misfolding can spread to other cellular prion proteins converting them to the pathogenic form.</p>
 </div>
 </div>
 <hr>
@@ -273,14 +306,14 @@ The problem is that a typically normal cellular protein <strong>folds into the w
 <section id="how-do-prions-spread" class="level2">
 <h2 class="anchored" data-anchor-id="how-do-prions-spread">How do prions spread?</h2>
 <p>Prions spread by <strong>template-directed misfolding</strong>.</p>
-<p>A misfolded prion protein (PrP<sup>Sc</sup>), acting as the template, can interact with a cellular prion protein (PrP<sup>C</sup>) and cause it to misfold as well. This creates a chain reaction.</p>
+<p>A misfolded pathogenic prion protein (PrP<sup>Sc</sup>) acts as a template. It interacts with a cellular prion protein (PrP<sup>C</sup>) and causes it to misfold, turning the cellular prion protein (PrP<sup>C</sup>)into a pathogenic prion protein (PrP<sup>Sc</sup>). This creates a chain reaction. Each newly converted protein converts other proteins.</p>
 <p><em>Figure 3. A pathogenic prion protein can induce cellular prion proteins to adopt the same harmful shape.</em></p>
-<p>As misfolded proteins accumulate, they form aggregates and amyloid-like structures that damage nervous tissue.</p>
+<p>As misfolded proteins accumulate, they form clumps called aggregates that damage nervous tissue.</p>
 <p><em>Figure 4. Misfolded prion proteins accumulate into aggregates that damage cells.</em></p>
 <hr>
 </section>
-<section id="how-can-prion-disease-arise" class="level2">
-<h2 class="anchored" data-anchor-id="how-can-prion-disease-arise">How can prion disease arise?</h2>
+<section id="how-does-prion-disease-arise" class="level2">
+<h2 class="anchored" data-anchor-id="how-does-prion-disease-arise">How does prion disease arise?</h2>
 <p>Prion diseases can arise in three main ways.</p>
 <section id="sporadic" class="level3">
 <h3 class="anchored" data-anchor-id="sporadic">1. Sporadic</h3>
@@ -349,8 +382,8 @@ neurons are lost over time</p></li>
 </section>
 <section id="why-are-prions-scientifically-important" class="level2">
 <h2 class="anchored" data-anchor-id="why-are-prions-scientifically-important">Why are prions scientifically important?</h2>
-<p>Prions changed how scientists think about infection.</p>
-<p>Before prions were discovered, infectious disease was thought to require a pathogen carrying nucleic acid. Prions showed that <strong>protein shape alone</strong> can carry biological information and spread disease.</p>
+<p>Prions changed how we understand infection.</p>
+<p>Before prions were discovered, infectious disease was thought to require a pathogen (like a bacteria or virus) carrying nucleic acid (DNA or RNA). Prions showed that <strong>protein shape alone</strong> can carry biological information and spread disease.</p>
 <p>This makes prions important not only for medicine, but also for our understanding of: - protein folding - neurodegeneration - inheritance and mutation - the relationship between structure and function</p>
 <hr>
 </section>
