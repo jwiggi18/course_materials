@@ -6,11 +6,16 @@ website:
   sidebar:
     contents:
       - index.qmd
-      - units/01_genomes.qmd
-      - units/02_chromosomes.qmd
-      - units/03_ploidy.qmd
-      - units/04_Prions.qmd
-      - units/05_population_genetics.qmd
+      - section: "Units"
+        contents:
+          - units/01_genomes.qmd
+          - units/02_chromosomes.qmd
+          - units/03_ploidy.qmd
+          - units/04_Prions.qmd
+          - units/05_population_genetics.qmd
+      - section: "Practice & Exploration"
+        contents:
+          - activities/index.qmd
 
 format:
   html:
