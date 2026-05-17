@@ -4,7 +4,7 @@ subtitle: "Hands-on activities to work through genetics concepts"
 toc: false
 ---
 
-These activities are designed to be worked through actively — alone, in pairs, or in class. Each one targets a concept from the textbook and gives you a chance to *do* genetics, not just read about it. Click any card to open the PDF.
+These activities are designed to be worked through actively in a small group. Each one targets a concept and gives you a chance to *do* genetics, not just read about it. Click any card to open the PDF.
 
 ```{=html}
 <style>
@@ -74,6 +74,45 @@ These activities are designed to be worked through actively — alone, in pairs,
   .activity-thumb { background: #2a2a2a; border-bottom-color: #333; }
 }
 </style>
+```
+## Nucleotide Structure
+
+```{=html}
+<div class="activity-grid">
+
+<a class="activity-card" href="pdfs/Nucleotide_activity_Student_Instructions.pdf" target="_blank">
+  <img class="activity-thumb" src="thumbnails/Nucleotide_activity_Student_Instructions.png" alt="Nucleotide Activity thumbnail">
+  <div class="activity-meta">
+    <span class="activity-tag">Molecular Genetics</span>
+    <span class="activity-title">Nucleotide Structure</span>
+  </div>
+</a>
+
+<a class="activity-card" href="pdfs/Nucleotide_student_answersheet_key.pdf" target="_blank">
+  <img class="activity-thumb" src="thumbnails/Nucleotide_student_answersheet_key.png" alt="Nucleotide student answer sheet thumbnail">
+  <div class="activity-meta">
+    <span class="activity-tag">Key</span>
+    <span class="activity-title">Nucleotides Activity Key</span>
+  </div>
+</a>
+
+</div>
+```
+
+## Ploidy
+
+```{=html}
+<div class="activity-grid">
+
+<a class="activity-card" href="pdfs/Ploidy_student_instructions.pdf" target="_blank">
+  <img class="activity-thumb" src="thumbnails/Ploidy_student_instructions.png" alt="Ploidy thumbnail">
+  <div class="activity-meta">
+    <span class="activity-tag">Ploidy</span>
+    <span class="activity-title">Ploidy</span>
+  </div>
+</a>
+
+</div>
 ```
 
 ## Foundations of Inheritance & Cell Division
@@ -180,7 +219,7 @@ These activities are designed to be worked through actively — alone, in pairs,
 </div>
 ```
 
-## Inheritance Patterns
+## Sex Linkage
 
 ```{=html}
 <div class="activity-grid">
