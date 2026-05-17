@@ -4,7 +4,29 @@
     "href": "activities/index.html",
     "title": "Practice & Exploration",
     "section": "",
-    "text": "These activities are designed to be worked through actively — alone, in pairs, or in class. Each one targets a concept from the textbook and gives you a chance to do genetics, not just read about it. Click any card to open the PDF.",
+    "text": "These activities are designed to be worked through actively in a small group. Each one targets a concept and gives you a chance to do genetics, not just read about it. Click any card to open the PDF.",
+    "crumbs": [
+      "Practice & Exploration",
+      "Practice & Exploration"
+    ]
+  },
+  {
+    "objectID": "activities/index.html#nucleotide-structure",
+    "href": "activities/index.html#nucleotide-structure",
+    "title": "Practice & Exploration",
+    "section": "Nucleotide Structure",
+    "text": "Nucleotide Structure\n\n\n\n  \n  \n    Molecular Genetics\n    Nucleotide Structure\n  \n\n\n\n  \n  \n    Key\n    Nucleotides Activity Key",
+    "crumbs": [
+      "Practice & Exploration",
+      "Practice & Exploration"
+    ]
+  },
+  {
+    "objectID": "activities/index.html#ploidy",
+    "href": "activities/index.html#ploidy",
+    "title": "Practice & Exploration",
+    "section": "Ploidy",
+    "text": "Ploidy\n\n\n\n  \n  \n    Ploidy\n    Ploidy",
     "crumbs": [
       "Practice & Exploration",
       "Practice & Exploration"
@@ -44,11 +66,11 @@
     ]
   },
   {
-    "objectID": "activities/index.html#inheritance-patterns",
-    "href": "activities/index.html#inheritance-patterns",
+    "objectID": "activities/index.html#sex-linkage",
+    "href": "activities/index.html#sex-linkage",
     "title": "Practice & Exploration",
-    "section": "Inheritance Patterns",
-    "text": "Inheritance Patterns\n\n\n\n  \n  \n    Activity\n    Sex Linkage\n  \n\n\n\n  \n  \n    Examples\n    Expressivity & Penetrance",
+    "section": "Sex Linkage",
+    "text": "Sex Linkage\n\n\n\n  \n  \n    Activity\n    Sex Linkage\n  \n\n\n\n  \n  \n    Examples\n    Expressivity & Penetrance",
     "crumbs": [
       "Practice & Exploration",
       "Practice & Exploration"
